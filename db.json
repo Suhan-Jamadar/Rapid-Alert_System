@@ -1,0 +1,1927 @@
+{
+  "alerts": [
+    {
+      "id": "alert-1777811507545-9l6p",
+      "priority": "HIGH",
+      "incidentType": "fire",
+      "location": "New Delhi, New Delhi",
+      "description": "🔥 FIRE ALERT in New Delhi, New Delhi! Major fire outbreak! Building engulfed in flames. #emergency",
+      "timestamp": "2026-05-03T12:31:47.545Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1777811507503-n91q",
+      "responderRoles": [
+        "all",
+        "fire_department"
+      ]
+    },
+    {
+      "id": "alert-1777811503424-avmf",
+      "priority": "CRITICAL",
+      "incidentType": "earthquake",
+      "location": "New Delhi, New Delhi",
+      "description": "⛰️ EARTHQUAKE in New Delhi, New Delhi! Strong tremors felt! Buildings damaged. #emergency",
+      "timestamp": "2026-05-03T12:31:43.424Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1777811503406-xc05",
+      "responderRoles": [
+        "all",
+        "fire_department",
+        "medical",
+        "police"
+      ]
+    },
+    {
+      "id": "alert-1777811458427-iz5s",
+      "priority": "HIGH",
+      "incidentType": "fire",
+      "location": "Noida Downtown, Noida",
+      "description": "🔥 FIRE ALERT in Noida Downtown, Noida! Major fire outbreak! Building engulfed in flames. #emergency",
+      "timestamp": "2026-05-03T12:30:58.427Z",
+      "coordinates": {
+        "lat": 28.5921,
+        "lng": 77.3055
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1777811458406-6mso",
+      "responderRoles": [
+        "all",
+        "fire_department"
+      ]
+    },
+    {
+      "id": "alert-1777811455110-btt2",
+      "priority": "HIGH",
+      "incidentType": "medical",
+      "location": "Connaught Place, New Delhi",
+      "description": "🏥 MEDICAL EMERGENCY in Connaught Place, New Delhi! Multiple casualties reported! #emergency",
+      "timestamp": "2026-05-03T12:30:55.110Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1777811455071-daim",
+      "responderRoles": [
+        "all",
+        "medical"
+      ]
+    },
+    {
+      "id": "alert-1777811451752-qpxt",
+      "priority": "HIGH",
+      "incidentType": "flood",
+      "location": "New Delhi, New Delhi",
+      "description": "🌊 FLOOD ALERT in New Delhi, New Delhi! Massive flooding reported! Water levels rising fast. #emergency",
+      "timestamp": "2026-05-03T12:30:51.752Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1777811451736-smcg",
+      "responderRoles": [
+        "all",
+        "flood_rescue"
+      ]
+    },
+    {
+      "id": "alert-1777811221485-ktsb",
+      "priority": "MEDIUM",
+      "incidentType": "storm",
+      "location": "Chandigarh Sector 22, Chandigarh",
+      "description": "🌪️ STORM WARNING in Chandigarh Sector 22, Chandigarh! Severe storm damage across area! #emergency",
+      "timestamp": "2026-05-03T12:27:01.485Z",
+      "coordinates": {
+        "lat": 30.7333,
+        "lng": 76.7794
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1777811221451-5143",
+      "responderRoles": [
+        "all",
+        "fire_department",
+        "flood_rescue"
+      ]
+    },
+    {
+      "id": "alert-1777811216658-1r4s",
+      "priority": "HIGH",
+      "incidentType": "fire",
+      "location": "Ghaziabad Industrial, Ghaziabad",
+      "description": "🔥 FIRE ALERT in Ghaziabad Industrial, Ghaziabad! Major fire outbreak! Building engulfed in flames. #emergency",
+      "timestamp": "2026-05-03T12:26:56.658Z",
+      "coordinates": {
+        "lat": 28.6692,
+        "lng": 77.4538
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1777811216629-3ku3",
+      "responderRoles": [
+        "all",
+        "fire_department"
+      ]
+    },
+    {
+      "id": "alert-1777811211845-h5f8",
+      "priority": "HIGH",
+      "incidentType": "medical",
+      "location": "Ghaziabad Industrial, Ghaziabad",
+      "description": "🏥 MEDICAL EMERGENCY in Ghaziabad Industrial, Ghaziabad! Multiple casualties reported! #emergency",
+      "timestamp": "2026-05-03T12:26:51.845Z",
+      "coordinates": {
+        "lat": 28.6692,
+        "lng": 77.4538
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1777811211810-m63j",
+      "responderRoles": [
+        "all",
+        "medical"
+      ]
+    },
+    {
+      "id": "alert-1777811207004-xrgz",
+      "priority": "HIGH",
+      "incidentType": "fire",
+      "location": "Noida Downtown, Noida",
+      "description": "🔥 FIRE ALERT in Noida Downtown, Noida! Major fire outbreak! Building engulfed in flames. #emergency",
+      "timestamp": "2026-05-03T12:26:47.004Z",
+      "coordinates": {
+        "lat": 28.5921,
+        "lng": 77.3055
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1777811206987-997c",
+      "responderRoles": [
+        "all",
+        "fire_department"
+      ]
+    },
+    {
+      "id": "alert-1777811188277-pwyk",
+      "priority": "HIGH",
+      "incidentType": "medical",
+      "location": "Connaught Place, New Delhi",
+      "description": "🏥 MEDICAL EMERGENCY in Connaught Place, New Delhi! Multiple casualties reported! #emergency",
+      "timestamp": "2026-05-03T12:26:28.277Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1777811188230-o5su",
+      "responderRoles": [
+        "all",
+        "medical"
+      ]
+    },
+    {
+      "id": "alert-1777811183834-xfhe",
+      "priority": "HIGH",
+      "incidentType": "medical",
+      "location": "Connaught Place, New Delhi",
+      "description": "🏥 MEDICAL EMERGENCY in Connaught Place, New Delhi! Multiple casualties reported! #emergency",
+      "timestamp": "2026-05-03T12:26:23.834Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1777811183822-bfe2",
+      "responderRoles": [
+        "all",
+        "medical"
+      ]
+    },
+    {
+      "id": "alert-1777810986894-plu2",
+      "priority": "HIGH",
+      "incidentType": "flood",
+      "location": "New Delhi, New Delhi",
+      "description": "🌊 FLOOD ALERT in New Delhi, New Delhi! Massive flooding reported! Water levels rising fast. #emergency",
+      "timestamp": "2026-05-03T12:23:06.894Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1777810986820-3e8s",
+      "responderRoles": [
+        "all",
+        "flood_rescue"
+      ]
+    },
+    {
+      "id": "alert-1777810389019-ku9w",
+      "priority": "CRITICAL",
+      "incidentType": "earthquake",
+      "location": "New Delhi, New Delhi",
+      "description": "⛰️ EARTHQUAKE in New Delhi, New Delhi! Strong tremors felt! Buildings damaged. #emergency",
+      "timestamp": "2026-05-03T12:13:09.019Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1777810388965-eh7k",
+      "responderRoles": [
+        "all",
+        "fire_department",
+        "medical",
+        "police"
+      ]
+    },
+    {
+      "id": "alert-1777810029801-iqrn",
+      "priority": "HIGH",
+      "incidentType": "fire",
+      "location": "New Delhi, New Delhi",
+      "description": "🔥 FIRE ALERT in New Delhi, New Delhi! Major fire outbreak! Building engulfed in flames. #emergency",
+      "timestamp": "2026-05-03T12:07:09.801Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1777810029791-wtjs",
+      "responderRoles": [
+        "all",
+        "fire_department"
+      ]
+    },
+    {
+      "id": "alert-1777810024898-15n4",
+      "priority": "HIGH",
+      "incidentType": "fire",
+      "location": "New Delhi, New Delhi",
+      "description": "🔥 FIRE ALERT in New Delhi, New Delhi! Major fire outbreak! Building engulfed in flames. #emergency",
+      "timestamp": "2026-05-03T12:07:04.898Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1777810024884-bh0a",
+      "responderRoles": [
+        "all",
+        "fire_department"
+      ]
+    },
+    {
+      "id": "alert-1777810019994-tbqy",
+      "priority": "HIGH",
+      "incidentType": "flood",
+      "location": "New Delhi, New Delhi",
+      "description": "🌊 FLOOD ALERT in New Delhi, New Delhi! Massive flooding reported! Water levels rising fast. #emergency",
+      "timestamp": "2026-05-03T12:06:59.994Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1777810019981-6ef5",
+      "responderRoles": [
+        "all",
+        "flood_rescue"
+      ]
+    },
+    {
+      "id": "alert-1777808590872-t8vu",
+      "priority": "CRITICAL",
+      "incidentType": "earthquake",
+      "location": "New Delhi, New Delhi",
+      "description": "⛰️ EARTHQUAKE in New Delhi, New Delhi! Strong tremors felt! Buildings damaged. #emergency",
+      "timestamp": "2026-05-03T11:43:10.872Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1777808590848-qaiu",
+      "responderRoles": [
+        "all",
+        "fire_department",
+        "medical",
+        "police"
+      ]
+    },
+    {
+      "id": "alert-1777808247830-33vk",
+      "priority": "HIGH",
+      "incidentType": "medical",
+      "location": "Connaught Place, New Delhi",
+      "description": "🏥 MEDICAL EMERGENCY in Connaught Place, New Delhi! Multiple casualties reported! #emergency",
+      "timestamp": "2026-05-03T11:37:27.830Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1777808247803-msxz",
+      "responderRoles": [
+        "all",
+        "medical"
+      ]
+    },
+    {
+      "id": "alert-1777808242575-nqm0",
+      "priority": "HIGH",
+      "incidentType": "medical",
+      "location": "Connaught Place, New Delhi",
+      "description": "🏥 MEDICAL EMERGENCY in Connaught Place, New Delhi! Multiple casualties reported! #emergency",
+      "timestamp": "2026-05-03T11:37:22.575Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1777808242541-90kp",
+      "responderRoles": [
+        "all",
+        "medical"
+      ]
+    },
+    {
+      "id": "alert-1777808232078-5u3x",
+      "priority": "HIGH",
+      "incidentType": "flood",
+      "location": "New Delhi, New Delhi",
+      "description": "🌊 FLOOD ALERT in New Delhi, New Delhi! Massive flooding reported! Water levels rising fast. #emergency",
+      "timestamp": "2026-05-03T11:37:12.078Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1777808232028-xuq4",
+      "responderRoles": [
+        "all",
+        "flood_rescue"
+      ]
+    },
+    {
+      "id": "alert-1777788269397-7kfc",
+      "priority": "MEDIUM",
+      "incidentType": "infrastructure",
+      "location": "Connaught Place, New Delhi",
+      "description": "🔌 INFRASTRUCTURE DAMAGED in Connaught Place, New Delhi! Power lines down and roads blocked! #emergency",
+      "timestamp": "2026-05-03T06:04:29.397Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1777788269381-36q5",
+      "responderRoles": [
+        "all",
+        "police"
+      ]
+    },
+    {
+      "id": "alert-1777788266296-6060",
+      "priority": "HIGH",
+      "incidentType": "flood",
+      "location": "New Delhi, New Delhi",
+      "description": "🌊 FLOOD ALERT in New Delhi, New Delhi! Massive flooding reported! Water levels rising fast. #emergency",
+      "timestamp": "2026-05-03T06:04:26.296Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1777788266287-qmlv",
+      "responderRoles": [
+        "all",
+        "flood_rescue"
+      ]
+    },
+    {
+      "id": "alert-1777788263257-jhe7",
+      "priority": "HIGH",
+      "incidentType": "fire",
+      "location": "New Delhi, New Delhi",
+      "description": "🔥 FIRE ALERT in New Delhi, New Delhi! Major fire outbreak! Building engulfed in flames. #emergency",
+      "timestamp": "2026-05-03T06:04:23.257Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1777788263188-g925",
+      "responderRoles": [
+        "all",
+        "fire_department"
+      ]
+    },
+    {
+      "id": "alert-1777781086368-ceck",
+      "priority": "HIGH",
+      "incidentType": "medical",
+      "location": "Connaught Place, New Delhi",
+      "description": "🏥 MEDICAL EMERGENCY in Connaught Place, New Delhi! Multiple casualties reported! #emergency",
+      "timestamp": "2026-05-03T04:04:46.368Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1777781086349-9j2i",
+      "responderRoles": [
+        "all",
+        "medical"
+      ]
+    },
+    {
+      "id": "alert-1777781081533-frce",
+      "priority": "MEDIUM",
+      "incidentType": "infrastructure",
+      "location": "Connaught Place, New Delhi",
+      "description": "🔌 INFRASTRUCTURE DAMAGED in Connaught Place, New Delhi! Power lines down and roads blocked! #emergency",
+      "timestamp": "2026-05-03T04:04:41.533Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1777781081514-9av1",
+      "responderRoles": [
+        "all",
+        "police"
+      ]
+    },
+    {
+      "id": "alert-1777781076701-vjbu",
+      "priority": "HIGH",
+      "incidentType": "flood",
+      "location": "New Delhi, New Delhi",
+      "description": "🌊 FLOOD ALERT in New Delhi, New Delhi! Massive flooding reported! Water levels rising fast. #emergency",
+      "timestamp": "2026-05-03T04:04:36.701Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1777781076662-hvp9",
+      "responderRoles": [
+        "all",
+        "flood_rescue"
+      ]
+    },
+    {
+      "id": "alert-1777384942736-t2u5",
+      "priority": "MEDIUM",
+      "incidentType": "infrastructure",
+      "location": "New Delhi, New Delhi",
+      "description": "🔌 INFRASTRUCTURE DAMAGED in New Delhi, New Delhi! Power lines down and roads blocked! #emergency",
+      "timestamp": "2026-04-28T14:02:22.736Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1777384942718-wd3b",
+      "responderRoles": [
+        "all",
+        "police"
+      ]
+    },
+    {
+      "id": "alert-1777384939263-jqxo",
+      "priority": "HIGH",
+      "incidentType": "flood",
+      "location": "New Delhi, New Delhi",
+      "description": "🌊 FLOOD ALERT in New Delhi, New Delhi! Massive flooding reported! Water levels rising fast. #emergency",
+      "timestamp": "2026-04-28T14:02:19.263Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1777384939193-hk5m",
+      "responderRoles": [
+        "all",
+        "flood_rescue"
+      ]
+    },
+    {
+      "id": "alert-1777377547893-zqif",
+      "priority": "HIGH",
+      "incidentType": "fire",
+      "location": "New Delhi, New Delhi",
+      "description": "🔥 FIRE ALERT in New Delhi, New Delhi! Major fire outbreak! Building engulfed in flames. #emergency",
+      "timestamp": "2026-04-28T11:59:07.893Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1777377547877-o0qk",
+      "responderRoles": [
+        "all",
+        "fire_department"
+      ]
+    },
+    {
+      "id": "alert-1777377542088-uror",
+      "priority": "HIGH",
+      "incidentType": "fire",
+      "location": "New Delhi, New Delhi",
+      "description": "🔥 FIRE ALERT in New Delhi, New Delhi! Major fire outbreak! Building engulfed in flames. #emergency",
+      "timestamp": "2026-04-28T11:59:02.088Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1777377542019-h6m6",
+      "responderRoles": [
+        "all",
+        "fire_department"
+      ]
+    },
+    {
+      "id": "alert-1777296040180-wj5n",
+      "priority": "HIGH",
+      "incidentType": "medical",
+      "location": "Connaught Place, New Delhi",
+      "description": "🏥 MEDICAL EMERGENCY in Connaught Place, New Delhi! Multiple casualties reported! #emergency",
+      "timestamp": "2026-04-27T13:20:40.180Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1777296040179-qeav",
+      "responderRoles": [
+        "all",
+        "medical"
+      ]
+    },
+    {
+      "id": "alert-1777296035995-2o4j",
+      "priority": "MEDIUM",
+      "incidentType": "infrastructure",
+      "location": "Connaught Place, New Delhi",
+      "description": "🔌 INFRASTRUCTURE DAMAGED in Connaught Place, New Delhi! Power lines down and roads blocked! #emergency",
+      "timestamp": "2026-04-27T13:20:35.995Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1777296035994-pf40",
+      "responderRoles": [
+        "all",
+        "police"
+      ]
+    },
+    {
+      "id": "alert-1777296030546-hgf3",
+      "priority": "MEDIUM",
+      "incidentType": "infrastructure",
+      "location": "New Delhi, New Delhi",
+      "description": "🔌 INFRASTRUCTURE DAMAGED in New Delhi, New Delhi! Power lines down and roads blocked! #emergency",
+      "timestamp": "2026-04-27T13:20:30.546Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1777296030545-9cho",
+      "responderRoles": [
+        "all",
+        "police"
+      ]
+    },
+    {
+      "id": "alert-1777296025831-6bwq",
+      "priority": "CRITICAL",
+      "incidentType": "earthquake",
+      "location": "New Delhi, New Delhi",
+      "description": "⛰️ EARTHQUAKE in New Delhi, New Delhi! Strong tremors felt! Buildings damaged. #emergency",
+      "timestamp": "2026-04-27T13:20:25.831Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1777296025790-3pi7",
+      "responderRoles": [
+        "all",
+        "fire_department",
+        "medical",
+        "police"
+      ]
+    },
+    {
+      "id": "alert-1777294234943-esq3",
+      "priority": "CRITICAL",
+      "incidentType": "earthquake",
+      "location": "New Delhi, New Delhi",
+      "description": "⛰️ EARTHQUAKE in New Delhi, New Delhi! Strong tremors felt! Buildings damaged. #emergency",
+      "timestamp": "2026-04-27T12:50:34.943Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1777294234943-iouz",
+      "responderRoles": [
+        "all",
+        "fire_department",
+        "medical",
+        "police"
+      ]
+    },
+    {
+      "id": "alert-1777294229812-7kki",
+      "priority": "CRITICAL",
+      "incidentType": "rescue",
+      "location": "Imphal Downtown, Imphal",
+      "description": "Grabbed lunch at my favorite place 🍝",
+      "timestamp": "2026-04-27T12:50:29.812Z",
+      "coordinates": {
+        "lat": 24.817,
+        "lng": 94.7885
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1777294229812-0h1d",
+      "responderRoles": [
+        "all",
+        "fire_department",
+        "police"
+      ]
+    },
+    {
+      "id": "alert-1777294224682-0k2o",
+      "priority": "CRITICAL",
+      "incidentType": "rescue",
+      "location": "Jabalpur Downtown, Jabalpur",
+      "description": "Gym session done! 💪 #fitness",
+      "timestamp": "2026-04-27T12:50:24.682Z",
+      "coordinates": {
+        "lat": 23.1815,
+        "lng": 79.9864
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1777294224682-m4h8",
+      "responderRoles": [
+        "all",
+        "fire_department",
+        "police"
+      ]
+    },
+    {
+      "id": "alert-1777294219556-yuoe",
+      "priority": "CRITICAL",
+      "incidentType": "rescue",
+      "location": "Tiruchirappalli Downtown, Tiruchirappalli",
+      "description": "Movie night! What should I watch? 🎬",
+      "timestamp": "2026-04-27T12:50:19.556Z",
+      "coordinates": {
+        "lat": 10.7905,
+        "lng": 78.7047
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1777294219555-mo8i",
+      "responderRoles": [
+        "all",
+        "fire_department",
+        "police"
+      ]
+    },
+    {
+      "id": "alert-1777294214380-52il",
+      "priority": "CRITICAL",
+      "incidentType": "rescue",
+      "location": "Imphal Downtown, Imphal",
+      "description": "Movie night! What should I watch? 🎬",
+      "timestamp": "2026-04-27T12:50:14.380Z",
+      "coordinates": {
+        "lat": 24.817,
+        "lng": 94.7885
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1777294214379-qrh9",
+      "responderRoles": [
+        "all",
+        "fire_department",
+        "police"
+      ]
+    },
+    {
+      "id": "alert-1775558786402-7zvo",
+      "priority": "MEDIUM",
+      "incidentType": "infrastructure",
+      "location": "New Delhi, New Delhi",
+      "description": "🔌 INFRASTRUCTURE DAMAGED in New Delhi, New Delhi! Power lines down and roads blocked! #emergency",
+      "timestamp": "2026-04-07T10:46:26.402Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1775558786402-bfmc",
+      "responderRoles": [
+        "all",
+        "police"
+      ]
+    },
+    {
+      "id": "alert-1775558781107-ql0g",
+      "priority": "CRITICAL",
+      "incidentType": "rescue",
+      "location": "Ooty Hill Station, Ooty",
+      "description": "Just had the best coffee ever! ☕ #morningvibes",
+      "timestamp": "2026-04-07T10:46:21.107Z",
+      "coordinates": {
+        "lat": 11.4102,
+        "lng": 76.6955
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1775558781106-md7f",
+      "responderRoles": [
+        "all",
+        "fire_department",
+        "police"
+      ]
+    },
+    {
+      "id": "alert-1775558775811-5f4x",
+      "priority": "HIGH",
+      "incidentType": "flood",
+      "location": "New Delhi, New Delhi",
+      "description": "🌊 FLOOD ALERT in New Delhi, New Delhi! Massive flooding reported! Water levels rising fast. #emergency",
+      "timestamp": "2026-04-07T10:46:15.811Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1775558775811-rfml",
+      "responderRoles": [
+        "all",
+        "flood_rescue"
+      ]
+    },
+    {
+      "id": "alert-1775552425411-wtn2",
+      "priority": "HIGH",
+      "incidentType": "infrastructure",
+      "location": "New Delhi, New Delhi",
+      "description": "🔌 INFRASTRUCTURE DAMAGED in New Delhi, New Delhi! Power lines down and roads blocked! #emergency",
+      "timestamp": "2026-04-07T09:00:25.411Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1775552425410-25j5",
+      "responderRoles": [
+        "all",
+        "police"
+      ]
+    },
+    {
+      "id": "alert-1775552419459-fyjv",
+      "priority": "CRITICAL",
+      "incidentType": "rescue",
+      "location": "Imphal Downtown, Imphal",
+      "description": "Learning something new today 📚",
+      "timestamp": "2026-04-07T09:00:19.459Z",
+      "coordinates": {
+        "lat": 24.817,
+        "lng": 94.7885
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1775552419458-38mv",
+      "responderRoles": [
+        "all",
+        "fire_department",
+        "police"
+      ]
+    },
+    {
+      "id": "alert-1775552413492-zjpm",
+      "priority": "CRITICAL",
+      "incidentType": "earthquake",
+      "location": "New Delhi, New Delhi",
+      "description": "⛰️ EARTHQUAKE in New Delhi, New Delhi! Strong tremors felt! Buildings damaged. #emergency",
+      "timestamp": "2026-04-07T09:00:13.492Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1775552413492-o9cb",
+      "responderRoles": [
+        "all",
+        "fire_department",
+        "medical",
+        "police"
+      ]
+    },
+    {
+      "id": "alert-1775552407534-nye4",
+      "priority": "HIGH",
+      "incidentType": "rescue",
+      "location": "Jabalpur Downtown, Jabalpur",
+      "description": "Great weather for a walk 🚴",
+      "timestamp": "2026-04-07T09:00:07.534Z",
+      "coordinates": {
+        "lat": 23.1815,
+        "lng": 79.9864
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1775552407533-80nu",
+      "responderRoles": [
+        "all",
+        "fire_department",
+        "police"
+      ]
+    },
+    {
+      "id": "alert-1775552401573-bwgy",
+      "priority": "HIGH",
+      "incidentType": "infrastructure",
+      "location": "New Delhi, New Delhi",
+      "description": "🔌 INFRASTRUCTURE DAMAGED in New Delhi, New Delhi! Power lines down and roads blocked! #emergency",
+      "timestamp": "2026-04-07T09:00:01.573Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1775552401572-4es5",
+      "responderRoles": [
+        "all",
+        "police"
+      ]
+    },
+    {
+      "id": "alert-1774676555575-4jcr",
+      "priority": "CRITICAL",
+      "incidentType": "flood",
+      "location": "New Delhi, New Delhi",
+      "description": "🌊 FLOOD ALERT in New Delhi, New Delhi! Massive flooding reported! Water levels rising fast. #emergency",
+      "timestamp": "2026-03-28T05:42:35.575Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1774676555575-7l1f",
+      "responderRoles": [
+        "all",
+        "flood_rescue"
+      ]
+    },
+    {
+      "id": "alert-1774676552516-mygw",
+      "priority": "MEDIUM",
+      "incidentType": "infrastructure",
+      "location": "New Delhi, New Delhi",
+      "description": "🔌 INFRASTRUCTURE DAMAGED in New Delhi, New Delhi! Power lines down and roads blocked! #emergency",
+      "timestamp": "2026-03-28T05:42:32.516Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1774676552516-aj5c",
+      "responderRoles": [
+        "all",
+        "police"
+      ]
+    },
+    {
+      "id": "alert-1774590852586-r8pz",
+      "priority": "MEDIUM",
+      "incidentType": "infrastructure",
+      "location": "New Delhi, New Delhi",
+      "description": "🔌 INFRASTRUCTURE DAMAGED in New Delhi, New Delhi! Power lines down and roads blocked! #emergency",
+      "timestamp": "2026-03-27T05:54:12.586Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1774590852586-9z9r",
+      "responderRoles": [
+        "all",
+        "police"
+      ]
+    },
+    {
+      "id": "alert-1774590849174-2b8e",
+      "priority": "HIGH",
+      "incidentType": "infrastructure",
+      "location": "New Delhi, New Delhi",
+      "description": "🔌 INFRASTRUCTURE DAMAGED in New Delhi, New Delhi! Power lines down and roads blocked! #emergency",
+      "timestamp": "2026-03-27T05:54:09.174Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1774590849174-blxc",
+      "responderRoles": [
+        "all",
+        "police"
+      ]
+    },
+    {
+      "id": "alert-1774590846176-7ezw",
+      "priority": "CRITICAL",
+      "incidentType": "earthquake",
+      "location": "New Delhi, New Delhi",
+      "description": "⛰️ EARTHQUAKE in New Delhi, New Delhi! Strong tremors felt! Buildings damaged. #emergency",
+      "timestamp": "2026-03-27T05:54:06.176Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1774590846175-qay9",
+      "responderRoles": [
+        "all",
+        "fire_department",
+        "medical",
+        "police"
+      ]
+    },
+    {
+      "id": "alert-1774590841656-ua7v",
+      "priority": "HIGH",
+      "incidentType": "rescue",
+      "location": "Varanasi Ghats, Varanasi",
+      "description": "Learning something new today 📚",
+      "timestamp": "2026-03-27T05:54:01.656Z",
+      "coordinates": {
+        "lat": 25.3201,
+        "lng": 82.9853
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1774590841655-05o1",
+      "responderRoles": [
+        "all",
+        "fire_department",
+        "police"
+      ]
+    },
+    {
+      "id": "alert-1774590677038-lwe8",
+      "priority": "HIGH",
+      "incidentType": "rescue",
+      "location": "Kochi Port Area, Kochi",
+      "description": "Finally Friday! 🎉 #weekendplans",
+      "timestamp": "2026-03-27T05:51:17.038Z",
+      "coordinates": {
+        "lat": 9.9312,
+        "lng": 76.2673
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1774590677038-ujk3",
+      "responderRoles": [
+        "all",
+        "fire_department",
+        "police"
+      ]
+    },
+    {
+      "id": "alert-1774590673452-16u4",
+      "priority": "CRITICAL",
+      "incidentType": "fire",
+      "location": "Ghaziabad Industrial, Ghaziabad",
+      "description": "🔥 FIRE ALERT in Ghaziabad Industrial, Ghaziabad! Major fire outbreak! Building engulfed in flames. #emergency",
+      "timestamp": "2026-03-27T05:51:13.452Z",
+      "coordinates": {
+        "lat": 28.6692,
+        "lng": 77.4538
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1774590673452-6mpp",
+      "responderRoles": [
+        "all",
+        "fire_department"
+      ]
+    },
+    {
+      "id": "alert-1774590669870-y2a7",
+      "priority": "CRITICAL",
+      "incidentType": "fire",
+      "location": "Ghaziabad Industrial, Ghaziabad",
+      "description": "🔥 FIRE ALERT in Ghaziabad Industrial, Ghaziabad! Major fire outbreak! Building engulfed in flames. #emergency",
+      "timestamp": "2026-03-27T05:51:09.870Z",
+      "coordinates": {
+        "lat": 28.6692,
+        "lng": 77.4538
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1774590669869-oxr9",
+      "responderRoles": [
+        "all",
+        "fire_department"
+      ]
+    },
+    {
+      "id": "alert-1774590666276-zhvk",
+      "priority": "HIGH",
+      "incidentType": "fire",
+      "location": "Noida Downtown, Noida",
+      "description": "🔥 FIRE ALERT in Noida Downtown, Noida! Major fire outbreak! Building engulfed in flames. #emergency",
+      "timestamp": "2026-03-27T05:51:06.276Z",
+      "coordinates": {
+        "lat": 28.5921,
+        "lng": 77.3055
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1774590666276-u5sb",
+      "responderRoles": [
+        "all",
+        "fire_department"
+      ]
+    },
+    {
+      "id": "alert-1774590662689-ltgv",
+      "priority": "HIGH",
+      "incidentType": "rescue",
+      "location": "Noida Downtown, Noida",
+      "description": "🚨 RESCUE NEEDED in Noida Downtown, Noida! People trapped! Emergency response required. #emergency",
+      "timestamp": "2026-03-27T05:51:02.689Z",
+      "coordinates": {
+        "lat": 28.5921,
+        "lng": 77.3055
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1774590662689-zn1l",
+      "responderRoles": [
+        "all",
+        "fire_department",
+        "police"
+      ]
+    },
+    {
+      "id": "alert-1774590659109-o1ca",
+      "priority": "CRITICAL",
+      "incidentType": "rescue",
+      "location": "Ghaziabad Industrial, Ghaziabad",
+      "description": "Movie night! What should I watch? 🎬",
+      "timestamp": "2026-03-27T05:50:59.109Z",
+      "coordinates": {
+        "lat": 28.6692,
+        "lng": 77.4538
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1774590659109-tqp3",
+      "responderRoles": [
+        "all",
+        "fire_department",
+        "police"
+      ]
+    },
+    {
+      "id": "alert-1774590655524-epig",
+      "priority": "CRITICAL",
+      "incidentType": "fire",
+      "location": "Noida Downtown, Noida",
+      "description": "🔥 FIRE ALERT in Noida Downtown, Noida! Major fire outbreak! Building engulfed in flames. #emergency",
+      "timestamp": "2026-03-27T05:50:55.524Z",
+      "coordinates": {
+        "lat": 28.5921,
+        "lng": 77.3055
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1774590655524-6i53",
+      "responderRoles": [
+        "all",
+        "fire_department"
+      ]
+    },
+    {
+      "id": "alert-1774590651932-dxg1",
+      "priority": "HIGH",
+      "incidentType": "medical",
+      "location": "Connaught Place, New Delhi",
+      "description": "🏥 MEDICAL EMERGENCY in Connaught Place, New Delhi! Multiple casualties reported! #emergency",
+      "timestamp": "2026-03-27T05:50:51.932Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1774590651932-2p77",
+      "responderRoles": [
+        "all",
+        "medical"
+      ]
+    },
+    {
+      "id": "alert-1774590648349-gfms",
+      "priority": "CRITICAL",
+      "incidentType": "fire",
+      "location": "New Delhi, New Delhi",
+      "description": "🔥 FIRE ALERT in New Delhi, New Delhi! Major fire outbreak! Building engulfed in flames. #emergency",
+      "timestamp": "2026-03-27T05:50:48.349Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1774590648348-t80w",
+      "responderRoles": [
+        "all",
+        "fire_department"
+      ]
+    },
+    {
+      "id": "alert-1774590644762-xowx",
+      "priority": "CRITICAL",
+      "incidentType": "fire",
+      "location": "New Delhi, New Delhi",
+      "description": "🔥 FIRE ALERT in New Delhi, New Delhi! Major fire outbreak! Building engulfed in flames. #emergency",
+      "timestamp": "2026-03-27T05:50:44.762Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1774590644761-lyyy",
+      "responderRoles": [
+        "all",
+        "fire_department"
+      ]
+    },
+    {
+      "id": "alert-1774590641173-6pxv",
+      "priority": "HIGH",
+      "incidentType": "fire",
+      "location": "New Delhi, New Delhi",
+      "description": "🔥 FIRE ALERT in New Delhi, New Delhi! Major fire outbreak! Building engulfed in flames. #emergency",
+      "timestamp": "2026-03-27T05:50:41.173Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1774590641172-wk3t",
+      "responderRoles": [
+        "all",
+        "fire_department"
+      ]
+    },
+    {
+      "id": "alert-1774425794056-bjgp",
+      "priority": "MEDIUM",
+      "incidentType": "infrastructure",
+      "location": "Ahmedabad City, Ahmedabad",
+      "description": "Infrastructure damage reported in Ahmedabad City, Ahmedabad! Power lines down, roads blocked, dangerous #emergency",
+      "timestamp": "2026-03-25T08:03:14.056Z",
+      "coordinates": {
+        "lat": 23.0225,
+        "lng": 72.5714
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1774425794055-4wde",
+      "responderRoles": [
+        "all",
+        "police"
+      ]
+    },
+    {
+      "id": "alert-1774425782823-f9ts",
+      "priority": "CRITICAL",
+      "incidentType": "fire",
+      "location": "Visakhapatnam Port, Visakhapatnam",
+      "description": "🔥 FIRE outbreak in Visakhapatnam Port, Visakhapatnam! Building engulfed in flames, mass evacuation #emergency",
+      "timestamp": "2026-03-25T08:03:02.823Z",
+      "coordinates": {
+        "lat": 17.6869,
+        "lng": 83.2185
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1774425782819-bp66",
+      "responderRoles": [
+        "all",
+        "fire_department"
+      ]
+    }
+  ],
+  "feed": [
+    {
+      "id": "tweet-1777811511594-izyc",
+      "type": "tweet",
+      "content": "Traffic is crazy today #commute",
+      "timestamp": "2026-05-03T12:31:51.594Z",
+      "location": "Kochi Port Area, Kochi"
+    },
+    {
+      "id": "tweet-1777811507503-n91q",
+      "type": "tweet",
+      "content": "🔥 FIRE ALERT in New Delhi, New Delhi! Major fire outbreak! Building engulfed in flames. #emergency",
+      "timestamp": "2026-05-03T12:31:47.503Z",
+      "location": "New Delhi, New Delhi"
+    },
+    {
+      "id": "tweet-1777811503406-xc05",
+      "type": "tweet",
+      "content": "⛰️ EARTHQUAKE in New Delhi, New Delhi! Strong tremors felt! Buildings damaged. #emergency",
+      "timestamp": "2026-05-03T12:31:43.406Z",
+      "location": "New Delhi, New Delhi"
+    },
+    {
+      "id": "tweet-1777811499302-19r0",
+      "type": "tweet",
+      "content": "Learning something new today 📚",
+      "timestamp": "2026-05-03T12:31:39.302Z",
+      "location": "Shillong Downtown, Shillong"
+    },
+    {
+      "id": "tweet-1777811461766-1mxs",
+      "type": "tweet",
+      "content": "Traffic is crazy today #commute",
+      "timestamp": "2026-05-03T12:31:01.766Z",
+      "location": "Hoskote National Highway, Bangalore"
+    },
+    {
+      "id": "tweet-1777811458406-6mso",
+      "type": "tweet",
+      "content": "🔥 FIRE ALERT in Noida Downtown, Noida! Major fire outbreak! Building engulfed in flames. #emergency",
+      "timestamp": "2026-05-03T12:30:58.406Z",
+      "location": "Noida Downtown, Noida"
+    },
+    {
+      "id": "tweet-1777811455071-daim",
+      "type": "tweet",
+      "content": "🏥 MEDICAL EMERGENCY in Connaught Place, New Delhi! Multiple casualties reported! #emergency",
+      "timestamp": "2026-05-03T12:30:55.071Z",
+      "location": "Connaught Place, New Delhi"
+    },
+    {
+      "id": "tweet-1777811451736-smcg",
+      "type": "tweet",
+      "content": "🌊 FLOOD ALERT in New Delhi, New Delhi! Massive flooding reported! Water levels rising fast. #emergency",
+      "timestamp": "2026-05-03T12:30:51.736Z",
+      "location": "New Delhi, New Delhi"
+    },
+    {
+      "id": "tweet-1777811448399-cc8b",
+      "type": "tweet",
+      "content": "Just had the best coffee ever! ☕ #morningvibes",
+      "timestamp": "2026-05-03T12:30:48.399Z",
+      "location": "Guwahati Downtown, Guwahati"
+    },
+    {
+      "id": "tweet-1777811221451-5143",
+      "type": "tweet",
+      "content": "🌪️ STORM WARNING in Chandigarh Sector 22, Chandigarh! Severe storm damage across area! #emergency",
+      "timestamp": "2026-05-03T12:27:01.451Z",
+      "location": "Chandigarh Sector 22, Chandigarh"
+    },
+    {
+      "id": "tweet-1777811216629-3ku3",
+      "type": "tweet",
+      "content": "🔥 FIRE ALERT in Ghaziabad Industrial, Ghaziabad! Major fire outbreak! Building engulfed in flames. #emergency",
+      "timestamp": "2026-05-03T12:26:56.629Z",
+      "location": "Ghaziabad Industrial, Ghaziabad"
+    },
+    {
+      "id": "tweet-1777811211810-m63j",
+      "type": "tweet",
+      "content": "🏥 MEDICAL EMERGENCY in Ghaziabad Industrial, Ghaziabad! Multiple casualties reported! #emergency",
+      "timestamp": "2026-05-03T12:26:51.810Z",
+      "location": "Ghaziabad Industrial, Ghaziabad"
+    },
+    {
+      "id": "tweet-1777811206987-997c",
+      "type": "tweet",
+      "content": "🔥 FIRE ALERT in Noida Downtown, Noida! Major fire outbreak! Building engulfed in flames. #emergency",
+      "timestamp": "2026-05-03T12:26:46.987Z",
+      "location": "Noida Downtown, Noida"
+    },
+    {
+      "id": "tweet-1777811202162-nbol",
+      "type": "tweet",
+      "content": "Beautiful sunset today! 🌅 #nature",
+      "timestamp": "2026-05-03T12:26:42.162Z",
+      "location": "Bhubaneswar Downtown, Bhubaneswar"
+    },
+    {
+      "id": "tweet-1777811188230-o5su",
+      "type": "tweet",
+      "content": "🏥 MEDICAL EMERGENCY in Connaught Place, New Delhi! Multiple casualties reported! #emergency",
+      "timestamp": "2026-05-03T12:26:28.230Z",
+      "location": "Connaught Place, New Delhi"
+    },
+    {
+      "id": "tweet-1777811183822-bfe2",
+      "type": "tweet",
+      "content": "🏥 MEDICAL EMERGENCY in Connaught Place, New Delhi! Multiple casualties reported! #emergency",
+      "timestamp": "2026-05-03T12:26:23.822Z",
+      "location": "Connaught Place, New Delhi"
+    },
+    {
+      "id": "tweet-1777811179403-vk07",
+      "type": "tweet",
+      "content": "Gym session done! 💪 #fitness",
+      "timestamp": "2026-05-03T12:26:19.403Z",
+      "location": "Lucknow Old City, Lucknow"
+    },
+    {
+      "id": "tweet-1777810995835-pu88",
+      "type": "tweet",
+      "content": "Beautiful sunset today! 🌅 #nature",
+      "timestamp": "2026-05-03T12:23:15.835Z",
+      "location": "Tiruchirappalli Downtown, Tiruchirappalli"
+    },
+    {
+      "id": "tweet-1777810991346-uwyi",
+      "type": "tweet",
+      "content": "Learning something new today 📚",
+      "timestamp": "2026-05-03T12:23:11.346Z",
+      "location": "Jaipur Civil Lines, Jaipur"
+    },
+    {
+      "id": "tweet-1777810986820-3e8s",
+      "type": "tweet",
+      "content": "🌊 FLOOD ALERT in New Delhi, New Delhi! Massive flooding reported! Water levels rising fast. #emergency",
+      "timestamp": "2026-05-03T12:23:06.820Z",
+      "location": "New Delhi, New Delhi"
+    },
+    {
+      "id": "tweet-1777810388965-eh7k",
+      "type": "tweet",
+      "content": "⛰️ EARTHQUAKE in New Delhi, New Delhi! Strong tremors felt! Buildings damaged. #emergency",
+      "timestamp": "2026-05-03T12:13:08.966Z",
+      "location": "New Delhi, New Delhi"
+    },
+    {
+      "id": "tweet-1777810383496-gy82",
+      "type": "tweet",
+      "content": "Learning something new today 📚",
+      "timestamp": "2026-05-03T12:13:03.496Z",
+      "location": "Guwahati Downtown, Guwahati"
+    },
+    {
+      "id": "tweet-1777810378018-ei2v",
+      "type": "tweet",
+      "content": "Just had the best coffee ever! ☕ #morningvibes",
+      "timestamp": "2026-05-03T12:12:58.018Z",
+      "location": "Mumbai Downtown, Mumbai"
+    },
+    {
+      "id": "tweet-1777810372504-fa55",
+      "type": "tweet",
+      "content": "Finally Friday! 🎉 #weekendplans",
+      "timestamp": "2026-05-03T12:12:52.504Z",
+      "location": "Chandigarh Sector 22, Chandigarh"
+    },
+    {
+      "id": "tweet-1777810029791-wtjs",
+      "type": "tweet",
+      "content": "🔥 FIRE ALERT in New Delhi, New Delhi! Major fire outbreak! Building engulfed in flames. #emergency",
+      "timestamp": "2026-05-03T12:07:09.791Z",
+      "location": "New Delhi, New Delhi"
+    },
+    {
+      "id": "tweet-1777810024884-bh0a",
+      "type": "tweet",
+      "content": "🔥 FIRE ALERT in New Delhi, New Delhi! Major fire outbreak! Building engulfed in flames. #emergency",
+      "timestamp": "2026-05-03T12:07:04.885Z",
+      "location": "New Delhi, New Delhi"
+    },
+    {
+      "id": "tweet-1777810019981-6ef5",
+      "type": "tweet",
+      "content": "🌊 FLOOD ALERT in New Delhi, New Delhi! Massive flooding reported! Water levels rising fast. #emergency",
+      "timestamp": "2026-05-03T12:06:59.981Z",
+      "location": "New Delhi, New Delhi"
+    },
+    {
+      "id": "tweet-1777810015071-7gc0",
+      "type": "tweet",
+      "content": "Grabbed lunch at my favorite place 🍝",
+      "timestamp": "2026-05-03T12:06:55.071Z",
+      "location": "Kochi Port Area, Kochi"
+    },
+    {
+      "id": "tweet-1777809244086-yl21",
+      "type": "tweet",
+      "content": "Beautiful sunset today! 🌅 #nature",
+      "timestamp": "2026-05-03T11:54:04.086Z",
+      "location": "Pune IT Park, Pune"
+    },
+    {
+      "id": "tweet-1777809240152-onk7",
+      "type": "tweet",
+      "content": "Grabbed lunch at my favorite place 🍝",
+      "timestamp": "2026-05-03T11:54:00.152Z",
+      "location": "Vadodara Downtown, Vadodara"
+    },
+    {
+      "id": "tweet-1777808602140-wcrw",
+      "type": "tweet",
+      "content": "Finally Friday! 🎉 #weekendplans",
+      "timestamp": "2026-05-03T11:43:22.140Z",
+      "location": "Indore Downtown, Indore"
+    },
+    {
+      "id": "tweet-1777808596500-e4bp",
+      "type": "tweet",
+      "content": "Just finished a good book 📖",
+      "timestamp": "2026-05-03T11:43:16.500Z",
+      "location": "Varanasi Ghats, Varanasi"
+    },
+    {
+      "id": "tweet-1777808590848-qaiu",
+      "type": "tweet",
+      "content": "⛰️ EARTHQUAKE in New Delhi, New Delhi! Strong tremors felt! Buildings damaged. #emergency",
+      "timestamp": "2026-05-03T11:43:10.848Z",
+      "location": "New Delhi, New Delhi"
+    },
+    {
+      "id": "tweet-1777808247803-msxz",
+      "type": "tweet",
+      "content": "🏥 MEDICAL EMERGENCY in Connaught Place, New Delhi! Multiple casualties reported! #emergency",
+      "timestamp": "2026-05-03T11:37:27.803Z",
+      "location": "Connaught Place, New Delhi"
+    },
+    {
+      "id": "tweet-1777808242541-90kp",
+      "type": "tweet",
+      "content": "🏥 MEDICAL EMERGENCY in Connaught Place, New Delhi! Multiple casualties reported! #emergency",
+      "timestamp": "2026-05-03T11:37:22.542Z",
+      "location": "Connaught Place, New Delhi"
+    },
+    {
+      "id": "tweet-1777808237290-rvpj",
+      "type": "tweet",
+      "content": "Grabbed lunch at my favorite place 🍝",
+      "timestamp": "2026-05-03T11:37:17.290Z",
+      "location": "Visakhapatnam Port, Visakhapatnam"
+    },
+    {
+      "id": "tweet-1777808232028-xuq4",
+      "type": "tweet",
+      "content": "🌊 FLOOD ALERT in New Delhi, New Delhi! Massive flooding reported! Water levels rising fast. #emergency",
+      "timestamp": "2026-05-03T11:37:12.028Z",
+      "location": "New Delhi, New Delhi"
+    },
+    {
+      "id": "tweet-1777788269381-36q5",
+      "type": "tweet",
+      "content": "🔌 INFRASTRUCTURE DAMAGED in Connaught Place, New Delhi! Power lines down and roads blocked! #emergency",
+      "timestamp": "2026-05-03T06:04:29.381Z",
+      "location": "Connaught Place, New Delhi"
+    },
+    {
+      "id": "tweet-1777788266287-qmlv",
+      "type": "tweet",
+      "content": "🌊 FLOOD ALERT in New Delhi, New Delhi! Massive flooding reported! Water levels rising fast. #emergency",
+      "timestamp": "2026-05-03T06:04:26.287Z",
+      "location": "New Delhi, New Delhi"
+    },
+    {
+      "id": "tweet-1777788263188-g925",
+      "type": "tweet",
+      "content": "🔥 FIRE ALERT in New Delhi, New Delhi! Major fire outbreak! Building engulfed in flames. #emergency",
+      "timestamp": "2026-05-03T06:04:23.188Z",
+      "location": "New Delhi, New Delhi"
+    },
+    {
+      "id": "tweet-1777781086349-9j2i",
+      "type": "tweet",
+      "content": "🏥 MEDICAL EMERGENCY in Connaught Place, New Delhi! Multiple casualties reported! #emergency",
+      "timestamp": "2026-05-03T04:04:46.349Z",
+      "location": "Connaught Place, New Delhi"
+    },
+    {
+      "id": "tweet-1777781081514-9av1",
+      "type": "tweet",
+      "content": "🔌 INFRASTRUCTURE DAMAGED in Connaught Place, New Delhi! Power lines down and roads blocked! #emergency",
+      "timestamp": "2026-05-03T04:04:41.514Z",
+      "location": "Connaught Place, New Delhi"
+    },
+    {
+      "id": "tweet-1777781076662-hvp9",
+      "type": "tweet",
+      "content": "🌊 FLOOD ALERT in New Delhi, New Delhi! Massive flooding reported! Water levels rising fast. #emergency",
+      "timestamp": "2026-05-03T04:04:36.662Z",
+      "location": "New Delhi, New Delhi"
+    },
+    {
+      "id": "tweet-1777384942718-wd3b",
+      "type": "tweet",
+      "content": "🔌 INFRASTRUCTURE DAMAGED in New Delhi, New Delhi! Power lines down and roads blocked! #emergency",
+      "timestamp": "2026-04-28T14:02:22.719Z",
+      "location": "New Delhi, New Delhi"
+    },
+    {
+      "id": "tweet-1777384939193-hk5m",
+      "type": "tweet",
+      "content": "🌊 FLOOD ALERT in New Delhi, New Delhi! Massive flooding reported! Water levels rising fast. #emergency",
+      "timestamp": "2026-04-28T14:02:19.193Z",
+      "location": "New Delhi, New Delhi"
+    },
+    {
+      "id": "tweet-1777377553732-grhn",
+      "type": "tweet",
+      "content": "Great weather for a walk 🚴",
+      "timestamp": "2026-04-28T11:59:13.732Z",
+      "location": "Pune IT Park, Pune"
+    },
+    {
+      "id": "tweet-1777377547877-o0qk",
+      "type": "tweet",
+      "content": "🔥 FIRE ALERT in New Delhi, New Delhi! Major fire outbreak! Building engulfed in flames. #emergency",
+      "timestamp": "2026-04-28T11:59:07.877Z",
+      "location": "New Delhi, New Delhi"
+    },
+    {
+      "id": "tweet-1777377542019-h6m6",
+      "type": "tweet",
+      "content": "🔥 FIRE ALERT in New Delhi, New Delhi! Major fire outbreak! Building engulfed in flames. #emergency",
+      "timestamp": "2026-04-28T11:59:02.019Z",
+      "location": "New Delhi, New Delhi"
+    },
+    {
+      "id": "tweet-1774425794055-4wde",
+      "type": "tweet",
+      "content": "Infrastructure damage reported in Ahmedabad City, Ahmedabad! Power lines down, roads blocked, dangerous #emergency",
+      "timestamp": "2026-03-25T08:03:14.055Z",
+      "location": "Ahmedabad City, Ahmedabad"
+    },
+    {
+      "id": "tweet-1774425788437-d77u",
+      "type": "tweet",
+      "content": "Reading a great book 📖 #bookstagram",
+      "timestamp": "2026-03-25T08:03:08.437Z",
+      "location": "Dibruganj, Assam"
+    },
+    {
+      "id": "tweet-1774425782819-bp66",
+      "type": "tweet",
+      "content": "🔥 FIRE outbreak in Visakhapatnam Port, Visakhapatnam! Building engulfed in flames, mass evacuation #emergency",
+      "timestamp": "2026-03-25T08:03:02.819Z",
+      "location": "Visakhapatnam Port, Visakhapatnam"
+    }
+  ],
+  "logs": [
+    {
+      "id": "log-1774425794056-4",
+      "timestamp": "2026-03-25T08:03:14.506Z",
+      "source": "tweet",
+      "sourceId": "tweet-1774425794055-4wde",
+      "stage": "queue_distribution",
+      "message": "Publishing to message queue → police channels. Location: Ahmedabad City, Ahmedabad",
+      "result": "Distributed to 1 responder channel(s) for Ahmedabad City, Ahmedabad",
+      "priority": "MEDIUM",
+      "incidentType": "infrastructure"
+    },
+    {
+      "id": "log-1774425794056-3",
+      "timestamp": "2026-03-25T08:03:14.356Z",
+      "source": "tweet",
+      "sourceId": "tweet-1774425794055-4wde",
+      "stage": "alert_generation",
+      "message": "Generating structured alert for infrastructure incident at Ahmedabad City, Ahmedabad",
+      "result": "Alert created with MEDIUM priority",
+      "priority": "MEDIUM",
+      "incidentType": "infrastructure"
+    },
+    {
+      "id": "log-1774425794056-2",
+      "timestamp": "2026-03-25T08:03:14.206Z",
+      "source": "tweet",
+      "sourceId": "tweet-1774425794055-4wde",
+      "stage": "ai_analysis",
+      "message": "AI NLP analysis: \"Infrastructure damage reported in Ahmedabad City, Ahmedabad!...\" Location: Ahmedabad City, Ahmedabad",
+      "result": "Infrastructure detected → Priority: MEDIUM",
+      "priority": "MEDIUM",
+      "incidentType": "infrastructure"
+    },
+    {
+      "id": "log-1774425794056-1",
+      "timestamp": "2026-03-25T08:03:14.056Z",
+      "source": "tweet",
+      "sourceId": "tweet-1774425794055-4wde",
+      "stage": "edge_filter",
+      "message": "🐦 Tweet received from Ahmedabad City, Ahmedabad. Running keyword filter...",
+      "result": "Disaster-related content detected at Ahmedabad City, Ahmedabad. Forwarding to AI module."
+    },
+    {
+      "id": "log-1774425788440-1",
+      "timestamp": "2026-03-25T08:03:08.440Z",
+      "source": "tweet",
+      "sourceId": "tweet-1774425788437-d77u",
+      "stage": "edge_filter",
+      "message": "🐦 Tweet received from Dibruganj, Assam. Running keyword filter...",
+      "result": "Non-emergency content detected. Filtered out - not disaster-related."
+    },
+    {
+      "id": "log-1774425782823-4",
+      "timestamp": "2026-03-25T08:03:03.273Z",
+      "source": "tweet",
+      "sourceId": "tweet-1774425782819-bp66",
+      "stage": "queue_distribution",
+      "message": "Publishing to message queue → fire_department channels. Location: Visakhapatnam Port, Visakhapatnam",
+      "result": "Distributed to 1 responder channel(s) for Visakhapatnam Port, Visakhapatnam",
+      "priority": "CRITICAL",
+      "incidentType": "fire"
+    },
+    {
+      "id": "log-1774425782823-3",
+      "timestamp": "2026-03-25T08:03:03.123Z",
+      "source": "tweet",
+      "sourceId": "tweet-1774425782819-bp66",
+      "stage": "alert_generation",
+      "message": "Generating structured alert for fire incident at Visakhapatnam Port, Visakhapatnam",
+      "result": "Alert created with CRITICAL priority",
+      "priority": "CRITICAL",
+      "incidentType": "fire"
+    },
+    {
+      "id": "log-1774425782823-2",
+      "timestamp": "2026-03-25T08:03:02.973Z",
+      "source": "tweet",
+      "sourceId": "tweet-1774425782819-bp66",
+      "stage": "ai_analysis",
+      "message": "AI NLP analysis: \"🔥 FIRE outbreak in Visakhapatnam Port, Visakhapatnam! Build...\" Location: Visakhapatnam Port, Visakhapatnam",
+      "result": "Fire detected → Priority: CRITICAL",
+      "priority": "CRITICAL",
+      "incidentType": "fire"
+    },
+    {
+      "id": "log-1774425782823-1",
+      "timestamp": "2026-03-25T08:03:02.823Z",
+      "source": "tweet",
+      "sourceId": "tweet-1774425782819-bp66",
+      "stage": "edge_filter",
+      "message": "🐦 Tweet received from Visakhapatnam Port, Visakhapatnam. Running keyword filter...",
+      "result": "Disaster-related content detected at Visakhapatnam Port, Visakhapatnam. Forwarding to AI module."
+    }
+  ],
+  "dispatches": [
+    {
+      "id": "dispatch-1777794966993",
+      "alertId": "alert-1777788263257-jhe7",
+      "criticality": "HIGH",
+      "peopleAffected": 25,
+      "location": "New Delhi, New Delhi",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "incidentType": "fire",
+      "assignedRoles": [
+        "flood_rescue"
+      ],
+      "teamAssignments": [
+        {
+          "role": "flood_rescue",
+          "status": "not_started",
+          "updatedAt": "2026-05-03T07:56:06.993Z"
+        }
+      ],
+      "notes": "flood emeregency",
+      "contactInfo": "7760608291",
+      "resourcesNeeded": "4 trucks and 10 Ambulences",
+      "timestamp": "2026-05-03T07:56:06.993Z",
+      "status": "dispatched",
+      "coordinationNotes": []
+    },
+    {
+      "id": "dispatch-1777794446448",
+      "alertId": "alert-1777788269397-7kfc",
+      "criticality": "MEDIUM",
+      "peopleAffected": 10,
+      "location": "Connaught Place, New Delhi",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "incidentType": "infrastructure",
+      "assignedRoles": [
+        "medical",
+        "police"
+      ],
+      "teamAssignments": [
+        {
+          "role": "medical",
+          "status": "not_started",
+          "updatedAt": "2026-05-03T07:47:26.448Z"
+        },
+        {
+          "role": "police",
+          "status": "not_started",
+          "updatedAt": "2026-05-03T07:47:26.448Z"
+        }
+      ],
+      "notes": "Medical Emergency",
+      "contactInfo": "7760608291",
+      "resourcesNeeded": "8 Ambulence",
+      "timestamp": "2026-05-03T07:47:26.448Z",
+      "status": "dispatched",
+      "coordinationNotes": []
+    },
+    {
+      "id": "dispatch-1777784769687",
+      "alertId": "alert-1777781086368-ceck",
+      "criticality": "HIGH",
+      "peopleAffected": 10,
+      "location": "Connaught Place, New Delhi",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "incidentType": "medical",
+      "assignedRoles": [
+        "medical",
+        "police"
+      ],
+      "teamAssignments": [
+        {
+          "role": "medical",
+          "status": "not_started",
+          "updatedAt": "2026-05-03T05:06:09.687Z"
+        },
+        {
+          "role": "police",
+          "status": "not_started",
+          "updatedAt": "2026-05-03T05:06:09.687Z"
+        }
+      ],
+      "notes": "Emergency",
+      "contactInfo": "7760608291",
+      "resourcesNeeded": "5 Ambulences",
+      "timestamp": "2026-05-03T05:06:09.687Z",
+      "status": "dispatched",
+      "coordinationNotes": []
+    }
+  ],
+  "responses": [
+    {
+      "id": "response-1777795022202",
+      "dispatchReportId": "dispatch-1777794966993",
+      "alertId": "alert-1777788263257-jhe7",
+      "respondingRole": "flood_rescue",
+      "teamLeader": "Amogh",
+      "teamSize": 50,
+      "eta": "10",
+      "equipmentDeployed": "4 trucks and 8 Ambluneces",
+      "currentStatus": "need_backup",
+      "situationUpdate": "need more backup",
+      "casualties": 10,
+      "rescued": 0,
+      "hazards": "Flood",
+      "accessRoute": "New Delhi",
+      "timestamp": "2026-05-03T08:01:15.986Z"
+    },
+    {
+      "id": "response-1777794556700",
+      "dispatchReportId": "dispatch-1777784769687",
+      "alertId": "alert-1777781086368-ceck",
+      "respondingRole": "police",
+      "teamLeader": "Supreet",
+      "teamSize": 20,
+      "eta": "15",
+      "equipmentDeployed": "4 Ambulenece",
+      "currentStatus": "on_scene",
+      "situationUpdate": "reached the area",
+      "casualties": 2,
+      "rescued": 0,
+      "hazards": "Medical EMeregency",
+      "accessRoute": "Connaught Place , New Delhi",
+      "timestamp": "2026-05-03T07:50:24.843Z"
+    },
+    {
+      "id": "response-1777784949170",
+      "dispatchReportId": "dispatch-1777784769687",
+      "alertId": "alert-1777781086368-ceck",
+      "respondingRole": "medical",
+      "teamLeader": "Amogh",
+      "teamSize": 10,
+      "eta": "15",
+      "equipmentDeployed": "4 Ambulences",
+      "currentStatus": "on_scene",
+      "situationUpdate": "reached the place",
+      "casualties": 2,
+      "rescued": 0,
+      "hazards": "Medical emregency",
+      "accessRoute": "Connaught place, New Delhi",
+      "timestamp": "2026-05-03T06:15:36.467Z"
+    }
+  ],
+  "dispatchLogs": [
+    {
+      "id": "log-1777795275986-ymvt",
+      "dispatchId": "dispatch-1777794966993",
+      "action": "status_update",
+      "details": "need more backup",
+      "role": "flood_rescue",
+      "timestamp": "2026-05-03T08:01:15.986Z"
+    },
+    {
+      "id": "log-1777795078683-hdc4",
+      "dispatchId": "dispatch-1777794966993",
+      "action": "status_update",
+      "details": "flood rescue → completed",
+      "role": "flood_rescue",
+      "timestamp": "2026-05-03T07:57:58.683Z"
+    },
+    {
+      "id": "log-1777795051626-wmyp",
+      "dispatchId": "dispatch-1777794966993",
+      "action": "status_update",
+      "details": "flood rescue → in progress",
+      "role": "flood_rescue",
+      "timestamp": "2026-05-03T07:57:31.626Z"
+    },
+    {
+      "id": "log-1777795022203-xn6u",
+      "dispatchId": "dispatch-1777794966993",
+      "action": "status_update",
+      "details": "flood rescue → in progress",
+      "role": "flood_rescue",
+      "timestamp": "2026-05-03T07:57:02.203Z"
+    },
+    {
+      "id": "log-1777795022202-q5xj",
+      "dispatchId": "dispatch-1777794966993",
+      "action": "status_update",
+      "details": "flood rescue responded — en route",
+      "role": "flood_rescue",
+      "timestamp": "2026-05-03T07:57:02.202Z"
+    },
+    {
+      "id": "log-1777794966994-d0q8",
+      "dispatchId": "dispatch-1777794966993",
+      "action": "team_assigned",
+      "details": "flood rescue assigned",
+      "role": "flood_rescue",
+      "timestamp": "2026-05-03T07:56:06.994Z"
+    },
+    {
+      "id": "log-1777794966993-npji",
+      "dispatchId": "dispatch-1777794966993",
+      "action": "created",
+      "details": "Dispatch created: HIGH fire at New Delhi, New Delhi",
+      "timestamp": "2026-05-03T07:56:06.993Z"
+    },
+    {
+      "id": "log-1777794624843-0q4r",
+      "dispatchId": "dispatch-1777784769687",
+      "action": "status_update",
+      "details": "police → in progress",
+      "role": "police",
+      "timestamp": "2026-05-03T07:50:24.844Z"
+    },
+    {
+      "id": "log-1777794556701-gfq0",
+      "dispatchId": "dispatch-1777784769687",
+      "action": "status_update",
+      "details": "police → in progress",
+      "role": "police",
+      "timestamp": "2026-05-03T07:49:16.701Z"
+    },
+    {
+      "id": "log-1777794556700-xjgf",
+      "dispatchId": "dispatch-1777784769687",
+      "action": "status_update",
+      "details": "police responded — en route",
+      "role": "police",
+      "timestamp": "2026-05-03T07:49:16.700Z"
+    },
+    {
+      "id": "log-1777794446450-fk4j",
+      "dispatchId": "dispatch-1777794446448",
+      "action": "team_assigned",
+      "details": "police assigned",
+      "role": "police",
+      "timestamp": "2026-05-03T07:47:26.450Z"
+    },
+    {
+      "id": "log-1777794446449-pcrh",
+      "dispatchId": "dispatch-1777794446448",
+      "action": "team_assigned",
+      "details": "medical assigned",
+      "role": "medical",
+      "timestamp": "2026-05-03T07:47:26.449Z"
+    },
+    {
+      "id": "log-1777794446449-9q39",
+      "dispatchId": "dispatch-1777794446448",
+      "action": "created",
+      "details": "Dispatch created: MEDIUM infrastructure at Connaught Place, New Delhi",
+      "timestamp": "2026-05-03T07:47:26.449Z"
+    }
+  ]
+}

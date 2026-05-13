@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+backend/node_modules/
+
+# Environment variables
+.env
+
+# Uploads
+uploads/
+
+# Build folder
+dist/
+
+# Python virtual environment
+venv/
+lstm/venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Mac files
+.DS_Store
+
+# ML model files
+*.h5
+*.keras

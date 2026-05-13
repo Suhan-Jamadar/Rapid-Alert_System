@@ -1,0 +1,516 @@
+{
+  "processingLogs": [
+    {
+      "id": "log-1778648681207-1",
+      "timestamp": "2026-05-13T05:04:41.207Z",
+      "source": "tweet",
+      "sourceId": "tweet-1778648681193-xwwf",
+      "stage": "edge_filter",
+      "message": "🐦 Tweet received from Jaipur Civil Lines, Jaipur. Running keyword filter...",
+      "result": "Non-emergency content detected. Filtered out - not disaster-related."
+    },
+    {
+      "id": "log-1778648675442-4",
+      "timestamp": "2026-05-13T05:04:35.892Z",
+      "source": "tweet",
+      "sourceId": "tweet-1778648675431-h4kl",
+      "stage": "queue_distribution",
+      "message": "Publishing to message queue → fire_department channels. Location: New Delhi, New Delhi",
+      "result": "Distributed to 1 responder channel(s) for New Delhi, New Delhi",
+      "priority": "HIGH",
+      "incidentType": "fire"
+    },
+    {
+      "id": "log-1778648675442-3",
+      "timestamp": "2026-05-13T05:04:35.742Z",
+      "source": "tweet",
+      "sourceId": "tweet-1778648675431-h4kl",
+      "stage": "alert_generation",
+      "message": "Generating structured alert for fire incident at New Delhi, New Delhi",
+      "result": "Alert created with HIGH priority",
+      "priority": "HIGH",
+      "incidentType": "fire"
+    },
+    {
+      "id": "log-1778648675442-2",
+      "timestamp": "2026-05-13T05:04:35.592Z",
+      "source": "tweet",
+      "sourceId": "tweet-1778648675431-h4kl",
+      "stage": "ai_analysis",
+      "message": "AI NLP analysis: \"🔥 FIRE ALERT in New Delhi, New Delhi! Major fire outbreak! ...\" Location: New Delhi, New Delhi",
+      "result": "Fire detected → Priority: HIGH",
+      "priority": "HIGH",
+      "incidentType": "fire"
+    },
+    {
+      "id": "log-1778648675442-1",
+      "timestamp": "2026-05-13T05:04:35.442Z",
+      "source": "tweet",
+      "sourceId": "tweet-1778648675431-h4kl",
+      "stage": "edge_filter",
+      "message": "🐦 Tweet received from New Delhi, New Delhi. Running keyword filter...",
+      "result": "Disaster-related content detected at New Delhi, New Delhi. Forwarding to AI module."
+    },
+    {
+      "id": "log-1778648669681-4",
+      "timestamp": "2026-05-13T05:04:30.131Z",
+      "source": "tweet",
+      "sourceId": "tweet-1778648669669-pzif",
+      "stage": "queue_distribution",
+      "message": "Publishing to message queue → police channels. Location: New Delhi, New Delhi",
+      "result": "Distributed to 1 responder channel(s) for New Delhi, New Delhi",
+      "priority": "MEDIUM",
+      "incidentType": "infrastructure"
+    },
+    {
+      "id": "log-1778648669681-3",
+      "timestamp": "2026-05-13T05:04:29.981Z",
+      "source": "tweet",
+      "sourceId": "tweet-1778648669669-pzif",
+      "stage": "alert_generation",
+      "message": "Generating structured alert for infrastructure incident at New Delhi, New Delhi",
+      "result": "Alert created with MEDIUM priority",
+      "priority": "MEDIUM",
+      "incidentType": "infrastructure"
+    },
+    {
+      "id": "log-1778648669681-2",
+      "timestamp": "2026-05-13T05:04:29.831Z",
+      "source": "tweet",
+      "sourceId": "tweet-1778648669669-pzif",
+      "stage": "ai_analysis",
+      "message": "AI NLP analysis: \"🔌 INFRASTRUCTURE DAMAGED in New Delhi, New Delhi! Power lin...\" Location: New Delhi, New Delhi",
+      "result": "Infrastructure detected → Priority: MEDIUM",
+      "priority": "MEDIUM",
+      "incidentType": "infrastructure"
+    },
+    {
+      "id": "log-1778648669681-1",
+      "timestamp": "2026-05-13T05:04:29.681Z",
+      "source": "tweet",
+      "sourceId": "tweet-1778648669669-pzif",
+      "stage": "edge_filter",
+      "message": "🐦 Tweet received from New Delhi, New Delhi. Running keyword filter...",
+      "result": "Disaster-related content detected at New Delhi, New Delhi. Forwarding to AI module."
+    },
+    {
+      "id": "log-1778648636631-4",
+      "timestamp": "2026-05-13T05:03:57.081Z",
+      "source": "tweet",
+      "sourceId": "tweet-1778648635795-1rje",
+      "stage": "queue_distribution",
+      "message": "Publishing to message queue → fire_department channels. Location: Chennai Beach Road, Chennai",
+      "result": "Distributed to 1 responder channel(s) for Chennai Beach Road, Chennai",
+      "priority": "HIGH",
+      "incidentType": "fire"
+    },
+    {
+      "id": "log-1778648636631-3",
+      "timestamp": "2026-05-13T05:03:56.931Z",
+      "source": "tweet",
+      "sourceId": "tweet-1778648635795-1rje",
+      "stage": "alert_generation",
+      "message": "Generating structured alert for fire incident at Chennai Beach Road, Chennai",
+      "result": "Alert created with HIGH priority",
+      "priority": "HIGH",
+      "incidentType": "fire"
+    },
+    {
+      "id": "log-1778648636631-2",
+      "timestamp": "2026-05-13T05:03:56.781Z",
+      "source": "tweet",
+      "sourceId": "tweet-1778648635795-1rje",
+      "stage": "ai_analysis",
+      "message": "AI NLP analysis: \"A major fire in the building! People are stranded in #Chenna...\" Location: Chennai Beach Road, Chennai",
+      "result": "Fire detected → Priority: HIGH",
+      "priority": "HIGH",
+      "incidentType": "fire"
+    },
+    {
+      "id": "log-1778648636631-1",
+      "timestamp": "2026-05-13T05:03:56.631Z",
+      "source": "tweet",
+      "sourceId": "tweet-1778648635795-1rje",
+      "stage": "edge_filter",
+      "message": "🐦 Tweet received from Chennai Beach Road, Chennai. Running keyword filter...",
+      "result": "Disaster-related content detected at Chennai Beach Road, Chennai. Forwarding to AI module."
+    },
+    {
+      "id": "log-1778648632775-1",
+      "timestamp": "2026-05-13T05:03:52.775Z",
+      "source": "tweet",
+      "sourceId": "tweet-1778648632768-lbon",
+      "stage": "edge_filter",
+      "message": "🐦 Tweet received from Indore Downtown, Indore. Running keyword filter...",
+      "result": "Non-emergency content detected. Filtered out - not disaster-related."
+    },
+    {
+      "id": "log-1778648629748-4",
+      "timestamp": "2026-05-13T05:03:50.198Z",
+      "source": "tweet",
+      "sourceId": "tweet-1778648629737-31py",
+      "stage": "queue_distribution",
+      "message": "Publishing to message queue → flood_rescue channels. Location: New Delhi, New Delhi",
+      "result": "Distributed to 1 responder channel(s) for New Delhi, New Delhi",
+      "priority": "HIGH",
+      "incidentType": "flood"
+    },
+    {
+      "id": "log-1778648629748-3",
+      "timestamp": "2026-05-13T05:03:50.048Z",
+      "source": "tweet",
+      "sourceId": "tweet-1778648629737-31py",
+      "stage": "alert_generation",
+      "message": "Generating structured alert for flood incident at New Delhi, New Delhi",
+      "result": "Alert created with HIGH priority",
+      "priority": "HIGH",
+      "incidentType": "flood"
+    },
+    {
+      "id": "log-1778648629748-2",
+      "timestamp": "2026-05-13T05:03:49.898Z",
+      "source": "tweet",
+      "sourceId": "tweet-1778648629737-31py",
+      "stage": "ai_analysis",
+      "message": "AI NLP analysis: \"🌊 FLOOD ALERT in New Delhi, New Delhi! Massive flooding rep...\" Location: New Delhi, New Delhi",
+      "result": "Flood detected → Priority: HIGH",
+      "priority": "HIGH",
+      "incidentType": "flood"
+    },
+    {
+      "id": "log-1778648629748-1",
+      "timestamp": "2026-05-13T05:03:49.748Z",
+      "source": "tweet",
+      "sourceId": "tweet-1778648629737-31py",
+      "stage": "edge_filter",
+      "message": "🐦 Tweet received from New Delhi, New Delhi. Running keyword filter...",
+      "result": "Disaster-related content detected at New Delhi, New Delhi. Forwarding to AI module."
+    },
+    {
+      "id": "log-1778648589287-4",
+      "timestamp": "2026-05-13T05:03:09.737Z",
+      "source": "image",
+      "sourceId": "image-1778648589287",
+      "stage": "queue_distribution",
+      "message": "Publishing to message queue → fire_department channels. Location: belgavi bus stop",
+      "result": "Distributed to 1 responder channel(s) for belgavi bus stop",
+      "priority": "HIGH",
+      "incidentType": "fire"
+    },
+    {
+      "id": "log-1778648589287-3",
+      "timestamp": "2026-05-13T05:03:09.587Z",
+      "source": "image",
+      "sourceId": "image-1778648589287",
+      "stage": "alert_generation",
+      "message": "Generating structured alert for fire incident at belgavi bus stop",
+      "result": "Alert created with HIGH priority",
+      "priority": "HIGH",
+      "incidentType": "fire"
+    },
+    {
+      "id": "log-1778648589287-2",
+      "timestamp": "2026-05-13T05:03:09.437Z",
+      "source": "image",
+      "sourceId": "image-1778648589287",
+      "stage": "ai_analysis",
+      "message": "AI NLP analysis: \"A large passenger bus is fully engulfed in intense flames on...\" Location: belgavi bus stop",
+      "result": "Fire detected → Priority: HIGH",
+      "priority": "HIGH",
+      "incidentType": "fire"
+    },
+    {
+      "id": "log-1778648589287-1",
+      "timestamp": "2026-05-13T05:03:09.287Z",
+      "source": "image",
+      "sourceId": "image-1778648589287",
+      "stage": "edge_filter",
+      "message": "📸 Image received from belgavi bus stop. Running keyword filter...",
+      "result": "Disaster-related content detected at belgavi bus stop. Forwarding to AI module."
+    },
+    {
+      "id": "log-1778648010414-1",
+      "timestamp": "2026-05-13T04:53:30.414Z",
+      "source": "tweet",
+      "sourceId": "tweet-1778648010391-suu3",
+      "stage": "edge_filter",
+      "message": "🐦 Tweet received from Connaught Place, New Delhi. Running keyword filter...",
+      "result": "Non-emergency content detected. Filtered out - not disaster-related."
+    },
+    {
+      "id": "log-1778648007070-4",
+      "timestamp": "2026-05-13T04:53:27.520Z",
+      "source": "tweet",
+      "sourceId": "tweet-1778648007061-8xqm",
+      "stage": "queue_distribution",
+      "message": "Publishing to message queue → fire_department channels. Location: Noida Downtown, Noida",
+      "result": "Distributed to 1 responder channel(s) for Noida Downtown, Noida",
+      "priority": "HIGH",
+      "incidentType": "fire"
+    },
+    {
+      "id": "log-1778648007070-3",
+      "timestamp": "2026-05-13T04:53:27.370Z",
+      "source": "tweet",
+      "sourceId": "tweet-1778648007061-8xqm",
+      "stage": "alert_generation",
+      "message": "Generating structured alert for fire incident at Noida Downtown, Noida",
+      "result": "Alert created with HIGH priority",
+      "priority": "HIGH",
+      "incidentType": "fire"
+    },
+    {
+      "id": "log-1778648007070-2",
+      "timestamp": "2026-05-13T04:53:27.220Z",
+      "source": "tweet",
+      "sourceId": "tweet-1778648007061-8xqm",
+      "stage": "ai_analysis",
+      "message": "AI NLP analysis: \"🔥 FIRE ALERT in Noida Downtown, Noida! Major fire outbreak!...\" Location: Noida Downtown, Noida",
+      "result": "Fire detected → Priority: HIGH",
+      "priority": "HIGH",
+      "incidentType": "fire"
+    },
+    {
+      "id": "log-1778648007070-1",
+      "timestamp": "2026-05-13T04:53:27.070Z",
+      "source": "tweet",
+      "sourceId": "tweet-1778648007061-8xqm",
+      "stage": "edge_filter",
+      "message": "🐦 Tweet received from Noida Downtown, Noida. Running keyword filter...",
+      "result": "Disaster-related content detected at Noida Downtown, Noida. Forwarding to AI module."
+    },
+    {
+      "id": "log-1778648003745-4",
+      "timestamp": "2026-05-13T04:53:24.195Z",
+      "source": "tweet",
+      "sourceId": "tweet-1778648003730-92d4",
+      "stage": "queue_distribution",
+      "message": "Publishing to message queue → medical channels. Location: Connaught Place, New Delhi",
+      "result": "Distributed to 1 responder channel(s) for Connaught Place, New Delhi",
+      "priority": "HIGH",
+      "incidentType": "medical"
+    },
+    {
+      "id": "log-1778648003745-3",
+      "timestamp": "2026-05-13T04:53:24.045Z",
+      "source": "tweet",
+      "sourceId": "tweet-1778648003730-92d4",
+      "stage": "alert_generation",
+      "message": "Generating structured alert for medical incident at Connaught Place, New Delhi",
+      "result": "Alert created with HIGH priority",
+      "priority": "HIGH",
+      "incidentType": "medical"
+    },
+    {
+      "id": "log-1778648003745-2",
+      "timestamp": "2026-05-13T04:53:23.895Z",
+      "source": "tweet",
+      "sourceId": "tweet-1778648003730-92d4",
+      "stage": "ai_analysis",
+      "message": "AI NLP analysis: \"🏥 MEDICAL EMERGENCY in Connaught Place, New Delhi! Multiple...\" Location: Connaught Place, New Delhi",
+      "result": "Medical detected → Priority: HIGH",
+      "priority": "HIGH",
+      "incidentType": "medical"
+    },
+    {
+      "id": "log-1778648003745-1",
+      "timestamp": "2026-05-13T04:53:23.745Z",
+      "source": "tweet",
+      "sourceId": "tweet-1778648003730-92d4",
+      "stage": "edge_filter",
+      "message": "🐦 Tweet received from Connaught Place, New Delhi. Running keyword filter...",
+      "result": "Disaster-related content detected at Connaught Place, New Delhi. Forwarding to AI module."
+    },
+    {
+      "id": "log-1778648000413-4",
+      "timestamp": "2026-05-13T04:53:20.863Z",
+      "source": "tweet",
+      "sourceId": "tweet-1778648000400-7pul",
+      "stage": "queue_distribution",
+      "message": "Publishing to message queue → police channels. Location: Connaught Place, New Delhi",
+      "result": "Distributed to 1 responder channel(s) for Connaught Place, New Delhi",
+      "priority": "MEDIUM",
+      "incidentType": "infrastructure"
+    },
+    {
+      "id": "log-1778648000413-3",
+      "timestamp": "2026-05-13T04:53:20.713Z",
+      "source": "tweet",
+      "sourceId": "tweet-1778648000400-7pul",
+      "stage": "alert_generation",
+      "message": "Generating structured alert for infrastructure incident at Connaught Place, New Delhi",
+      "result": "Alert created with MEDIUM priority",
+      "priority": "MEDIUM",
+      "incidentType": "infrastructure"
+    },
+    {
+      "id": "log-1778648000413-2",
+      "timestamp": "2026-05-13T04:53:20.563Z",
+      "source": "tweet",
+      "sourceId": "tweet-1778648000400-7pul",
+      "stage": "ai_analysis",
+      "message": "AI NLP analysis: \"🔌 INFRASTRUCTURE DAMAGED in Connaught Place, New Delhi! Pow...\" Location: Connaught Place, New Delhi",
+      "result": "Infrastructure detected → Priority: MEDIUM",
+      "priority": "MEDIUM",
+      "incidentType": "infrastructure"
+    },
+    {
+      "id": "log-1778648000413-1",
+      "timestamp": "2026-05-13T04:53:20.413Z",
+      "source": "tweet",
+      "sourceId": "tweet-1778648000400-7pul",
+      "stage": "edge_filter",
+      "message": "🐦 Tweet received from Connaught Place, New Delhi. Running keyword filter...",
+      "result": "Disaster-related content detected at Connaught Place, New Delhi. Forwarding to AI module."
+    },
+    {
+      "id": "log-1778647997077-1",
+      "timestamp": "2026-05-13T04:53:17.077Z",
+      "source": "tweet",
+      "sourceId": "tweet-1778647997069-9cq4",
+      "stage": "edge_filter",
+      "message": "🐦 Tweet received from Ghaziabad Industrial, Ghaziabad. Running keyword filter...",
+      "result": "Non-emergency content detected. Filtered out - not disaster-related."
+    },
+    {
+      "id": "log-1778647995589-4",
+      "timestamp": "2026-05-13T04:53:16.039Z",
+      "source": "image",
+      "sourceId": "image-1778647995589",
+      "stage": "queue_distribution",
+      "message": "Publishing to message queue → fire_department channels. Location: Belagavi",
+      "result": "Distributed to 1 responder channel(s) for Belagavi",
+      "priority": "HIGH",
+      "incidentType": "fire"
+    },
+    {
+      "id": "log-1778647995589-3",
+      "timestamp": "2026-05-13T04:53:15.889Z",
+      "source": "image",
+      "sourceId": "image-1778647995589",
+      "stage": "alert_generation",
+      "message": "Generating structured alert for fire incident at Belagavi",
+      "result": "Alert created with HIGH priority",
+      "priority": "HIGH",
+      "incidentType": "fire"
+    },
+    {
+      "id": "log-1778647995589-2",
+      "timestamp": "2026-05-13T04:53:15.739Z",
+      "source": "image",
+      "sourceId": "image-1778647995589",
+      "stage": "ai_analysis",
+      "message": "AI NLP analysis: \"A large passenger bus is fully engulfed in intense flames on...\" Location: Belagavi",
+      "result": "Fire detected → Priority: HIGH",
+      "priority": "HIGH",
+      "incidentType": "fire"
+    },
+    {
+      "id": "log-1778647995589-1",
+      "timestamp": "2026-05-13T04:53:15.589Z",
+      "source": "image",
+      "sourceId": "image-1778647995589",
+      "stage": "edge_filter",
+      "message": "📸 Image received from Belagavi. Running keyword filter...",
+      "result": "Disaster-related content detected at Belagavi. Forwarding to AI module."
+    },
+    {
+      "id": "log-1778647993749-1",
+      "timestamp": "2026-05-13T04:53:13.749Z",
+      "source": "tweet",
+      "sourceId": "tweet-1778647993739-py63",
+      "stage": "edge_filter",
+      "message": "🐦 Tweet received from Hyderabad IT Corridor, Hyderabad. Running keyword filter...",
+      "result": "Non-emergency content detected. Filtered out - not disaster-related."
+    },
+    {
+      "id": "log-1778647990424-4",
+      "timestamp": "2026-05-13T04:53:10.874Z",
+      "source": "tweet",
+      "sourceId": "tweet-1778647990408-dry5",
+      "stage": "queue_distribution",
+      "message": "Publishing to message queue → police channels. Location: Connaught Place, New Delhi",
+      "result": "Distributed to 1 responder channel(s) for Connaught Place, New Delhi",
+      "priority": "MEDIUM",
+      "incidentType": "infrastructure"
+    },
+    {
+      "id": "log-1778647990424-3",
+      "timestamp": "2026-05-13T04:53:10.724Z",
+      "source": "tweet",
+      "sourceId": "tweet-1778647990408-dry5",
+      "stage": "alert_generation",
+      "message": "Generating structured alert for infrastructure incident at Connaught Place, New Delhi",
+      "result": "Alert created with MEDIUM priority",
+      "priority": "MEDIUM",
+      "incidentType": "infrastructure"
+    },
+    {
+      "id": "log-1778647990424-2",
+      "timestamp": "2026-05-13T04:53:10.574Z",
+      "source": "tweet",
+      "sourceId": "tweet-1778647990408-dry5",
+      "stage": "ai_analysis",
+      "message": "AI NLP analysis: \"🔌 INFRASTRUCTURE DAMAGED in Connaught Place, New Delhi! Pow...\" Location: Connaught Place, New Delhi",
+      "result": "Infrastructure detected → Priority: MEDIUM",
+      "priority": "MEDIUM",
+      "incidentType": "infrastructure"
+    },
+    {
+      "id": "log-1778647990424-1",
+      "timestamp": "2026-05-13T04:53:10.424Z",
+      "source": "tweet",
+      "sourceId": "tweet-1778647990408-dry5",
+      "stage": "edge_filter",
+      "message": "🐦 Tweet received from Connaught Place, New Delhi. Running keyword filter...",
+      "result": "Disaster-related content detected at Connaught Place, New Delhi. Forwarding to AI module."
+    },
+    {
+      "id": "log-1778647987101-4",
+      "timestamp": "2026-05-13T04:53:07.551Z",
+      "source": "tweet",
+      "sourceId": "tweet-1778647987076-j5rn",
+      "stage": "queue_distribution",
+      "message": "Publishing to message queue → flood_rescue channels. Location: New Delhi, New Delhi",
+      "result": "Distributed to 1 responder channel(s) for New Delhi, New Delhi",
+      "priority": "HIGH",
+      "incidentType": "flood"
+    },
+    {
+      "id": "log-1778647987101-3",
+      "timestamp": "2026-05-13T04:53:07.401Z",
+      "source": "tweet",
+      "sourceId": "tweet-1778647987076-j5rn",
+      "stage": "alert_generation",
+      "message": "Generating structured alert for flood incident at New Delhi, New Delhi",
+      "result": "Alert created with HIGH priority",
+      "priority": "HIGH",
+      "incidentType": "flood"
+    },
+    {
+      "id": "log-1778647987101-2",
+      "timestamp": "2026-05-13T04:53:07.251Z",
+      "source": "tweet",
+      "sourceId": "tweet-1778647987076-j5rn",
+      "stage": "ai_analysis",
+      "message": "AI NLP analysis: \"🌊 FLOOD ALERT in New Delhi, New Delhi! Massive flooding rep...\" Location: New Delhi, New Delhi",
+      "result": "Flood detected → Priority: HIGH",
+      "priority": "HIGH",
+      "incidentType": "flood"
+    },
+    {
+      "id": "log-1778647987101-1",
+      "timestamp": "2026-05-13T04:53:07.101Z",
+      "source": "tweet",
+      "sourceId": "tweet-1778647987076-j5rn",
+      "stage": "edge_filter",
+      "message": "🐦 Tweet received from New Delhi, New Delhi. Running keyword filter...",
+      "result": "Disaster-related content detected at New Delhi, New Delhi. Forwarding to AI module."
+    }
+  ],
+  "logSummary": {
+    "totalProcessed": 13,
+    "successfulAlerts": 11,
+    "filteredOut": 5
+  }
+}

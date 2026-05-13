@@ -1,0 +1,14 @@
+{
+  "max_len": 60,
+  "max_vocab": 15000,
+  "classes": [
+    "earthquake",
+    "fire",
+    "flood",
+    "infrastructure",
+    "medical",
+    "other",
+    "rescue",
+    "storm"
+  ]
+}

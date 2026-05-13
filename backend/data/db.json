@@ -1,0 +1,444 @@
+{
+  "alerts": [
+    {
+      "id": "alert-1778648675442-yuwp",
+      "priority": "HIGH",
+      "incidentType": "fire",
+      "location": "New Delhi, New Delhi",
+      "description": "🔥 FIRE ALERT in New Delhi, New Delhi! Major fire outbreak! Building engulfed in flames. #emergency",
+      "timestamp": "2026-05-13T05:04:35.442Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1778648675431-h4kl",
+      "responderRoles": [
+        "all",
+        "fire_department"
+      ]
+    },
+    {
+      "id": "alert-1778648669681-wxyy",
+      "priority": "MEDIUM",
+      "incidentType": "infrastructure",
+      "location": "New Delhi, New Delhi",
+      "description": "🔌 INFRASTRUCTURE DAMAGED in New Delhi, New Delhi! Power lines down and roads blocked! #emergency",
+      "timestamp": "2026-05-13T05:04:29.681Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1778648669669-pzif",
+      "responderRoles": [
+        "all",
+        "police"
+      ]
+    },
+    {
+      "id": "alert-1778648636631-67ed",
+      "priority": "HIGH",
+      "incidentType": "fire",
+      "location": "Chennai Beach Road, Chennai",
+      "description": "A major fire in the building! People are stranded in #Chennai",
+      "timestamp": "2026-05-13T05:03:56.631Z",
+      "coordinates": {
+        "lat": 13.0461,
+        "lng": 80.2812
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1778648635795-1rje",
+      "responderRoles": [
+        "all",
+        "fire_department"
+      ]
+    },
+    {
+      "id": "alert-1778648629748-099r",
+      "priority": "HIGH",
+      "incidentType": "flood",
+      "location": "New Delhi, New Delhi",
+      "description": "🌊 FLOOD ALERT in New Delhi, New Delhi! Massive flooding reported! Water levels rising fast. #emergency",
+      "timestamp": "2026-05-13T05:03:49.748Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1778648629737-31py",
+      "responderRoles": [
+        "all",
+        "flood_rescue"
+      ]
+    },
+    {
+      "id": "alert-1778648589288-fx6n",
+      "priority": "HIGH",
+      "incidentType": "fire",
+      "location": "belgavi bus stop",
+      "description": "A large passenger bus is fully engulfed in intense flames on a road. An accompanying news report indicates at least 10 passengers have been killed in this bus fire in Markapuram.",
+      "timestamp": "2026-05-13T05:03:09.288Z",
+      "coordinates": {
+        "lat": 15.8608974,
+        "lng": 74.5129177
+      },
+      "sourceType": "image",
+      "sourceId": "image-1778648589287",
+      "responderRoles": [
+        "all",
+        "fire_department"
+      ]
+    },
+    {
+      "id": "alert-1778648007070-1bhi",
+      "priority": "HIGH",
+      "incidentType": "fire",
+      "location": "Noida Downtown, Noida",
+      "description": "🔥 FIRE ALERT in Noida Downtown, Noida! Major fire outbreak! Building engulfed in flames. #emergency",
+      "timestamp": "2026-05-13T04:53:27.070Z",
+      "coordinates": {
+        "lat": 28.5921,
+        "lng": 77.3055
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1778648007061-8xqm",
+      "responderRoles": [
+        "all",
+        "fire_department"
+      ]
+    },
+    {
+      "id": "alert-1778648003745-vnpd",
+      "priority": "HIGH",
+      "incidentType": "medical",
+      "location": "Connaught Place, New Delhi",
+      "description": "🏥 MEDICAL EMERGENCY in Connaught Place, New Delhi! Multiple casualties reported! #emergency",
+      "timestamp": "2026-05-13T04:53:23.745Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1778648003730-92d4",
+      "responderRoles": [
+        "all",
+        "medical"
+      ]
+    },
+    {
+      "id": "alert-1778648000413-vgp4",
+      "priority": "MEDIUM",
+      "incidentType": "infrastructure",
+      "location": "Connaught Place, New Delhi",
+      "description": "🔌 INFRASTRUCTURE DAMAGED in Connaught Place, New Delhi! Power lines down and roads blocked! #emergency",
+      "timestamp": "2026-05-13T04:53:20.413Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1778648000400-7pul",
+      "responderRoles": [
+        "all",
+        "police"
+      ]
+    },
+    {
+      "id": "alert-1778647995589-p6wk",
+      "priority": "HIGH",
+      "incidentType": "fire",
+      "location": "Belagavi",
+      "description": "A large passenger bus is fully engulfed in intense flames on a paved road, with thick smoke and bright orange fire emanating from the entire vehicle. Accompanying text reports at least 10 fatalities from the bus fire in Markapuram.",
+      "timestamp": "2026-05-13T04:53:15.589Z",
+      "coordinates": {
+        "lat": 15.8608974,
+        "lng": 74.5129177
+      },
+      "sourceType": "image",
+      "sourceId": "image-1778647995589",
+      "responderRoles": [
+        "all",
+        "fire_department"
+      ]
+    },
+    {
+      "id": "alert-1778647990425-rknz",
+      "priority": "MEDIUM",
+      "incidentType": "infrastructure",
+      "location": "Connaught Place, New Delhi",
+      "description": "🔌 INFRASTRUCTURE DAMAGED in Connaught Place, New Delhi! Power lines down and roads blocked! #emergency",
+      "timestamp": "2026-05-13T04:53:10.425Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1778647990408-dry5",
+      "responderRoles": [
+        "all",
+        "police"
+      ]
+    },
+    {
+      "id": "alert-1778647987101-wblp",
+      "priority": "HIGH",
+      "incidentType": "flood",
+      "location": "New Delhi, New Delhi",
+      "description": "🌊 FLOOD ALERT in New Delhi, New Delhi! Massive flooding reported! Water levels rising fast. #emergency",
+      "timestamp": "2026-05-13T04:53:07.101Z",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "sourceType": "tweet",
+      "sourceId": "tweet-1778647987076-j5rn",
+      "responderRoles": [
+        "all",
+        "flood_rescue"
+      ]
+    }
+  ],
+  "feed": [
+    {
+      "id": "tweet-1778648681193-xwwf",
+      "type": "tweet",
+      "content": "Just had the best coffee ever! ☕ #morningvibes",
+      "timestamp": "2026-05-13T05:04:41.193Z",
+      "location": "Jaipur Civil Lines, Jaipur"
+    },
+    {
+      "id": "tweet-1778648675431-h4kl",
+      "type": "tweet",
+      "content": "🔥 FIRE ALERT in New Delhi, New Delhi! Major fire outbreak! Building engulfed in flames. #emergency",
+      "timestamp": "2026-05-13T05:04:35.431Z",
+      "location": "New Delhi, New Delhi"
+    },
+    {
+      "id": "tweet-1778648669669-pzif",
+      "type": "tweet",
+      "content": "🔌 INFRASTRUCTURE DAMAGED in New Delhi, New Delhi! Power lines down and roads blocked! #emergency",
+      "timestamp": "2026-05-13T05:04:29.669Z",
+      "location": "New Delhi, New Delhi"
+    },
+    {
+      "id": "tweet-1778648635795-1rje",
+      "type": "tweet",
+      "content": "கட்டிடத்தில் பெரும் தீ விபத்து! மக்கள் சிக்கித் தவிக்கின்றனர் #Chennai",
+      "timestamp": "2026-05-13T05:03:55.795Z",
+      "location": "Chennai Beach Road, Chennai",
+      "translatedContent": "A major fire in the building! People are stranded in #Chennai",
+      "detectedLanguage": "ta"
+    },
+    {
+      "id": "tweet-1778648632768-lbon",
+      "type": "tweet",
+      "content": "Beautiful sunset today! 🌅 #nature",
+      "timestamp": "2026-05-13T05:03:52.768Z",
+      "location": "Indore Downtown, Indore"
+    },
+    {
+      "id": "tweet-1778648629737-31py",
+      "type": "tweet",
+      "content": "🌊 FLOOD ALERT in New Delhi, New Delhi! Massive flooding reported! Water levels rising fast. #emergency",
+      "timestamp": "2026-05-13T05:03:49.737Z",
+      "location": "New Delhi, New Delhi"
+    },
+    {
+      "id": "tweet-1778648010391-suu3",
+      "type": "tweet",
+      "content": "Learning something new today 📚",
+      "timestamp": "2026-05-13T04:53:30.391Z",
+      "location": "Connaught Place, New Delhi"
+    },
+    {
+      "id": "tweet-1778648007061-8xqm",
+      "type": "tweet",
+      "content": "🔥 FIRE ALERT in Noida Downtown, Noida! Major fire outbreak! Building engulfed in flames. #emergency",
+      "timestamp": "2026-05-13T04:53:27.061Z",
+      "location": "Noida Downtown, Noida"
+    },
+    {
+      "id": "tweet-1778648003730-92d4",
+      "type": "tweet",
+      "content": "🏥 MEDICAL EMERGENCY in Connaught Place, New Delhi! Multiple casualties reported! #emergency",
+      "timestamp": "2026-05-13T04:53:23.731Z",
+      "location": "Connaught Place, New Delhi"
+    },
+    {
+      "id": "tweet-1778648000400-7pul",
+      "type": "tweet",
+      "content": "🔌 INFRASTRUCTURE DAMAGED in Connaught Place, New Delhi! Power lines down and roads blocked! #emergency",
+      "timestamp": "2026-05-13T04:53:20.400Z",
+      "location": "Connaught Place, New Delhi"
+    },
+    {
+      "id": "tweet-1778647997069-9cq4",
+      "type": "tweet",
+      "content": "Just had the best coffee ever! ☕ #morningvibes",
+      "timestamp": "2026-05-13T04:53:17.069Z",
+      "location": "Ghaziabad Industrial, Ghaziabad"
+    },
+    {
+      "id": "tweet-1778647993739-py63",
+      "type": "tweet",
+      "content": "Traffic is crazy today #commute",
+      "timestamp": "2026-05-13T04:53:13.739Z",
+      "location": "Hyderabad IT Corridor, Hyderabad"
+    },
+    {
+      "id": "tweet-1778647990408-dry5",
+      "type": "tweet",
+      "content": "🔌 INFRASTRUCTURE DAMAGED in Connaught Place, New Delhi! Power lines down and roads blocked! #emergency",
+      "timestamp": "2026-05-13T04:53:10.408Z",
+      "location": "Connaught Place, New Delhi"
+    },
+    {
+      "id": "tweet-1778647987076-j5rn",
+      "type": "tweet",
+      "content": "🌊 FLOOD ALERT in New Delhi, New Delhi! Massive flooding reported! Water levels rising fast. #emergency",
+      "timestamp": "2026-05-13T04:53:07.076Z",
+      "location": "New Delhi, New Delhi"
+    }
+  ],
+  "logs": [],
+  "dispatches": [
+    {
+      "id": "dispatch-1778648819121",
+      "alertId": "alert-1778648589288-fx6n",
+      "criticality": "HIGH",
+      "peopleAffected": 10,
+      "location": "belgavi bus stop",
+      "coordinates": {
+        "lat": 15.8608974,
+        "lng": 74.5129177
+      },
+      "incidentType": "fire",
+      "assignedRoles": [
+        "fire_department",
+        "flood_rescue"
+      ],
+      "teamAssignments": [
+        {
+          "role": "fire_department",
+          "status": "not_started",
+          "updatedAt": "2026-05-13T05:06:59.121Z"
+        },
+        {
+          "role": "flood_rescue",
+          "status": "not_started",
+          "updatedAt": "2026-05-13T05:06:59.121Z"
+        }
+      ],
+      "notes": "A bus is on fire near bua stop ",
+      "contactInfo": "1221121212",
+      "resourcesNeeded": "2 Trucks",
+      "timestamp": "2026-05-13T05:06:59.121Z",
+      "status": "dispatched",
+      "coordinationNotes": []
+    },
+    {
+      "id": "dispatch-1778648070547",
+      "alertId": "alert-1778648007070-1bhi",
+      "criticality": "HIGH",
+      "peopleAffected": 10,
+      "location": "Noida Downtown, Noida",
+      "coordinates": {
+        "lat": 28.5921,
+        "lng": 77.3055
+      },
+      "incidentType": "fire",
+      "assignedRoles": [
+        "fire_department"
+      ],
+      "teamAssignments": [
+        {
+          "role": "fire_department",
+          "status": "not_started",
+          "updatedAt": "2026-05-13T04:54:30.547Z"
+        }
+      ],
+      "notes": "A bus is on fire,people are heading towards the bus.",
+      "contactInfo": "91291291291",
+      "resourcesNeeded": "2 Trucks",
+      "timestamp": "2026-05-13T04:54:30.547Z",
+      "status": "dispatched",
+      "coordinationNotes": []
+    }
+  ],
+  "responses": [
+    {
+      "id": "response-1778648888568",
+      "dispatchReportId": "dispatch-1778648819121",
+      "alertId": "alert-1778648589288-fx6n",
+      "respondingRole": "fire_department",
+      "teamLeader": "sir",
+      "teamSize": 5,
+      "eta": "10 mins",
+      "equipmentDeployed": "2 trucks",
+      "currentStatus": "en_route",
+      "situationUpdate": "En Route",
+      "casualties": 0,
+      "rescued": 0,
+      "hazards": "Fire ",
+      "accessRoute": "RC Circle",
+      "timestamp": "2026-05-13T05:08:08.568Z"
+    }
+  ],
+  "dispatchLogs": [
+    {
+      "id": "log-1778648888571-fv3z",
+      "dispatchId": "dispatch-1778648819121",
+      "action": "status_update",
+      "details": "En Route",
+      "role": "fire_department",
+      "timestamp": "2026-05-13T05:08:08.571Z"
+    },
+    {
+      "id": "log-1778648888569-iqvx",
+      "dispatchId": "dispatch-1778648819121",
+      "action": "status_update",
+      "details": "fire department responded — en route",
+      "role": "fire_department",
+      "timestamp": "2026-05-13T05:08:08.569Z"
+    },
+    {
+      "id": "log-1778648819122-shxp",
+      "dispatchId": "dispatch-1778648819121",
+      "action": "team_assigned",
+      "details": "flood rescue assigned",
+      "role": "flood_rescue",
+      "timestamp": "2026-05-13T05:06:59.122Z"
+    },
+    {
+      "id": "log-1778648819122-o8rw",
+      "dispatchId": "dispatch-1778648819121",
+      "action": "team_assigned",
+      "details": "fire department assigned",
+      "role": "fire_department",
+      "timestamp": "2026-05-13T05:06:59.122Z"
+    },
+    {
+      "id": "log-1778648819121-97uf",
+      "dispatchId": "dispatch-1778648819121",
+      "action": "created",
+      "details": "Dispatch created: HIGH fire at belgavi bus stop",
+      "timestamp": "2026-05-13T05:06:59.121Z"
+    },
+    {
+      "id": "log-1778648070549-9mhs",
+      "dispatchId": "dispatch-1778648070547",
+      "action": "team_assigned",
+      "details": "fire department assigned",
+      "role": "fire_department",
+      "timestamp": "2026-05-13T04:54:30.549Z"
+    },
+    {
+      "id": "log-1778648070548-g4d5",
+      "dispatchId": "dispatch-1778648070547",
+      "action": "created",
+      "details": "Dispatch created: HIGH fire at Noida Downtown, Noida",
+      "timestamp": "2026-05-13T04:54:30.548Z"
+    }
+  ]
+}

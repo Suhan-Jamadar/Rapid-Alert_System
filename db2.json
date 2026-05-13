@@ -1,0 +1,209 @@
+{
+  "feedbackHistory": [
+    {
+      "id": "tweet-1777811511594-izyc",
+      "content": "Traffic is crazy today #commute",
+      "author": "@User",
+      "timestamp": "2026-05-03T12:31:51.882Z",
+      "location": "Kochi Port Area, Kochi",
+      "edgeFilterResult": "Non-emergency content detected. Filtered out - not disaster-related.",
+      "type": "random_tweet",
+      "reason": "Not disaster-related"
+    },
+    {
+      "id": "tweet-1777811499302-19r0",
+      "content": "Learning something new today 📚",
+      "author": "@User",
+      "timestamp": "2026-05-03T12:31:39.546Z",
+      "location": "Shillong Downtown, Shillong",
+      "edgeFilterResult": "Non-emergency content detected. Filtered out - not disaster-related.",
+      "type": "random_tweet",
+      "reason": "Not disaster-related"
+    },
+    {
+      "id": "tweet-1777811461766-1mxs",
+      "content": "Traffic is crazy today #commute",
+      "author": "@User",
+      "timestamp": "2026-05-03T12:31:02.059Z",
+      "location": "Hoskote National Highway, Bangalore",
+      "edgeFilterResult": "Non-emergency content detected. Filtered out - not disaster-related.",
+      "type": "random_tweet",
+      "reason": "Not disaster-related"
+    },
+    {
+      "id": "tweet-1777811448399-cc8b",
+      "content": "Just had the best coffee ever! ☕ #morningvibes",
+      "author": "@User",
+      "timestamp": "2026-05-03T12:30:48.674Z",
+      "location": "Guwahati Downtown, Guwahati",
+      "edgeFilterResult": "Non-emergency content detected. Filtered out - not disaster-related.",
+      "type": "random_tweet",
+      "reason": "Not disaster-related"
+    },
+    {
+      "id": "tweet-1777811202162-nbol",
+      "content": "Beautiful sunset today! 🌅 #nature",
+      "author": "@User",
+      "timestamp": "2026-05-03T12:26:42.411Z",
+      "location": "Bhubaneswar Downtown, Bhubaneswar",
+      "edgeFilterResult": "Non-emergency content detected. Filtered out - not disaster-related.",
+      "type": "random_tweet",
+      "reason": "Not disaster-related"
+    },
+    {
+      "id": "tweet-1777811179403-vk07",
+      "content": "Gym session done! 💪 #fitness",
+      "author": "@User",
+      "timestamp": "2026-05-03T12:26:19.659Z",
+      "location": "Lucknow Old City, Lucknow",
+      "edgeFilterResult": "Non-emergency content detected. Filtered out - not disaster-related.",
+      "type": "random_tweet",
+      "reason": "Not disaster-related"
+    },
+    {
+      "id": "tweet-1777810995835-pu88",
+      "content": "Beautiful sunset today! 🌅 #nature",
+      "author": "@User",
+      "timestamp": "2026-05-03T12:23:16.070Z",
+      "location": "Tiruchirappalli Downtown, Tiruchirappalli",
+      "edgeFilterResult": "Non-emergency content detected. Filtered out - not disaster-related.",
+      "type": "random_tweet",
+      "reason": "Not disaster-related"
+    },
+    {
+      "id": "tweet-1777810991346-uwyi",
+      "content": "Learning something new today 📚",
+      "author": "@User",
+      "timestamp": "2026-05-03T12:23:11.564Z",
+      "location": "Jaipur Civil Lines, Jaipur",
+      "edgeFilterResult": "Non-emergency content detected. Filtered out - not disaster-related.",
+      "type": "random_tweet",
+      "reason": "Not disaster-related"
+    },
+    {
+      "id": "tweet-1777810383496-gy82",
+      "content": "Learning something new today 📚",
+      "author": "@User",
+      "timestamp": "2026-05-03T12:13:03.773Z",
+      "location": "Guwahati Downtown, Guwahati",
+      "edgeFilterResult": "Non-emergency content detected. Filtered out - not disaster-related.",
+      "type": "random_tweet",
+      "reason": "Not disaster-related"
+    },
+    {
+      "id": "tweet-1777810378018-ei2v",
+      "content": "Just had the best coffee ever! ☕ #morningvibes",
+      "author": "@User",
+      "timestamp": "2026-05-03T12:12:58.238Z",
+      "location": "Mumbai Downtown, Mumbai",
+      "edgeFilterResult": "Non-emergency content detected. Filtered out - not disaster-related.",
+      "type": "random_tweet",
+      "reason": "Not disaster-related"
+    },
+    {
+      "id": "tweet-1777810372504-fa55",
+      "content": "Finally Friday! 🎉 #weekendplans",
+      "author": "@User",
+      "timestamp": "2026-05-03T12:12:52.780Z",
+      "location": "Chandigarh Sector 22, Chandigarh",
+      "edgeFilterResult": "Non-emergency content detected. Filtered out - not disaster-related.",
+      "type": "random_tweet",
+      "reason": "Not disaster-related"
+    },
+    {
+      "id": "tweet-1777810015071-7gc0",
+      "content": "Grabbed lunch at my favorite place 🍝",
+      "author": "@User",
+      "timestamp": "2026-05-03T12:06:55.298Z",
+      "location": "Kochi Port Area, Kochi",
+      "edgeFilterResult": "Non-emergency content detected. Filtered out - not disaster-related.",
+      "type": "random_tweet",
+      "reason": "Not disaster-related"
+    },
+    {
+      "id": "tweet-1777809244086-yl21",
+      "content": "Beautiful sunset today! 🌅 #nature",
+      "author": "@User",
+      "timestamp": "2026-05-03T11:54:04.316Z",
+      "location": "Pune IT Park, Pune",
+      "edgeFilterResult": "Non-emergency content detected. Filtered out - not disaster-related.",
+      "type": "random_tweet",
+      "reason": "Not disaster-related"
+    },
+    {
+      "id": "tweet-1777809240152-onk7",
+      "content": "Grabbed lunch at my favorite place 🍝",
+      "author": "@User",
+      "timestamp": "2026-05-03T11:54:00.383Z",
+      "location": "Vadodara Downtown, Vadodara",
+      "edgeFilterResult": "Non-emergency content detected. Filtered out - not disaster-related.",
+      "type": "random_tweet",
+      "reason": "Not disaster-related"
+    },
+    {
+      "id": "tweet-1777808602140-wcrw",
+      "content": "Finally Friday! 🎉 #weekendplans",
+      "author": "@User",
+      "timestamp": "2026-05-03T11:43:22.401Z",
+      "location": "Indore Downtown, Indore",
+      "edgeFilterResult": "Non-emergency content detected. Filtered out - not disaster-related.",
+      "type": "random_tweet",
+      "reason": "Not disaster-related"
+    },
+    {
+      "id": "tweet-1777808596500-e4bp",
+      "content": "Just finished a good book 📖",
+      "author": "@User",
+      "timestamp": "2026-05-03T11:43:16.721Z",
+      "location": "Varanasi Ghats, Varanasi",
+      "edgeFilterResult": "Non-emergency content detected. Filtered out - not disaster-related.",
+      "type": "random_tweet",
+      "reason": "Not disaster-related"
+    },
+    {
+      "id": "tweet-1777808237290-rvpj",
+      "content": "Grabbed lunch at my favorite place 🍝",
+      "author": "@User",
+      "timestamp": "2026-05-03T11:37:17.517Z",
+      "location": "Visakhapatnam Port, Visakhapatnam",
+      "edgeFilterResult": "Non-emergency content detected. Filtered out - not disaster-related.",
+      "type": "random_tweet",
+      "reason": "Not disaster-related"
+    },
+    {
+      "id": "tweet-1777377553732-grhn",
+      "content": "Great weather for a walk 🚴",
+      "author": "@User",
+      "timestamp": "2026-04-28T11:59:13.967Z",
+      "location": "Pune IT Park, Pune",
+      "edgeFilterResult": "Non-emergency content detected. Filtered out - not disaster-related.",
+      "type": "random_tweet",
+      "reason": "Not disaster-related"
+    },
+    {
+      "id": "feedback-1774425900000-xyzp",
+      "type": "random_tweet",
+      "content": "Just had the best coffee ever! ☕ #morningvibes",
+      "author": "@CoffeeLovers",
+      "timestamp": "2026-03-25T08:05:00.000Z",
+      "location": "Mumbai Downtown, Mumbai",
+      "edgeFilterResult": "Non-emergency content detected. Filtered out - not disaster-related.",
+      "reason": "Not disaster-related"
+    },
+    {
+      "id": "feedback-1774425905000-abcd",
+      "type": "random_tweet",
+      "content": "Beautiful sunset today! 🌅 #nature",
+      "author": "@NaturePhotog",
+      "timestamp": "2026-03-25T08:05:05.000Z",
+      "location": "Bangalore IT Hub, Bangalore",
+      "edgeFilterResult": "Non-emergency content detected. Filtered out - not disaster-related.",
+      "reason": "Not disaster-related"
+    }
+  ],
+  "filteredSummary": {
+    "totalFiltered": 20,
+    "successfulFilter": 20,
+    "filterRate": "100.0%"
+  }
+}

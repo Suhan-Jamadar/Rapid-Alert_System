@@ -1,0 +1,59 @@
+{
+  "feedbackHistory": [
+    {
+      "id": "tweet-1778648681193-xwwf",
+      "content": "Just had the best coffee ever! ☕ #morningvibes",
+      "author": "@User",
+      "timestamp": "2026-05-13T05:04:41.408Z",
+      "location": "Jaipur Civil Lines, Jaipur",
+      "edgeFilterResult": "Non-emergency content detected. Filtered out - not disaster-related.",
+      "type": "random_tweet",
+      "reason": "Not disaster-related"
+    },
+    {
+      "id": "tweet-1778648632768-lbon",
+      "content": "Beautiful sunset today! 🌅 #nature",
+      "author": "@User",
+      "timestamp": "2026-05-13T05:03:52.976Z",
+      "location": "Indore Downtown, Indore",
+      "edgeFilterResult": "Non-emergency content detected. Filtered out - not disaster-related.",
+      "type": "random_tweet",
+      "reason": "Not disaster-related"
+    },
+    {
+      "id": "tweet-1778648010391-suu3",
+      "content": "Learning something new today 📚",
+      "author": "@User",
+      "timestamp": "2026-05-13T04:53:30.615Z",
+      "location": "Connaught Place, New Delhi",
+      "edgeFilterResult": "Non-emergency content detected. Filtered out - not disaster-related.",
+      "type": "random_tweet",
+      "reason": "Not disaster-related"
+    },
+    {
+      "id": "tweet-1778647997069-9cq4",
+      "content": "Just had the best coffee ever! ☕ #morningvibes",
+      "author": "@User",
+      "timestamp": "2026-05-13T04:53:17.277Z",
+      "location": "Ghaziabad Industrial, Ghaziabad",
+      "edgeFilterResult": "Non-emergency content detected. Filtered out - not disaster-related.",
+      "type": "random_tweet",
+      "reason": "Not disaster-related"
+    },
+    {
+      "id": "tweet-1778647993739-py63",
+      "content": "Traffic is crazy today #commute",
+      "author": "@User",
+      "timestamp": "2026-05-13T04:53:13.949Z",
+      "location": "Hyderabad IT Corridor, Hyderabad",
+      "edgeFilterResult": "Non-emergency content detected. Filtered out - not disaster-related.",
+      "type": "random_tweet",
+      "reason": "Not disaster-related"
+    }
+  ],
+  "filteredSummary": {
+    "totalFiltered": 5,
+    "successfulFilter": 5,
+    "filterRate": "100.0%"
+  }
+}
