@@ -115,7 +115,7 @@ Rapid-Alert-Nexus/
 
 **1. Clone Repository**
 ```bash
-git clone [https://github.com/amogh-sharanar28/Rapid-Alert-Nexus.git](https://github.com/amogh-sharanar28/Rapid-Alert-Nexus.git)
+git clone [https://github.com/Suhan-Jamadar/Rapid-Alert_System]
 cd Rapid-Alert-Nexus
 ```
 
